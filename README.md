@@ -9,7 +9,7 @@
 * Open Source Open Source
 
 ## Possible Description
-
+Open Source Open Source is a class about maintaining an inclusive, healthy open source project. The first half of the semester will focus on the technical aspects of project managing open source (Git, Github, Unit Testing, Continuous Integration). The second half of the semester will transition to a "studio" style course where each week an open source project is selected and the class works to contribute. 
 
 ## 14 week skeleton
 
@@ -35,14 +35,17 @@
 * Projects
 * Milestones
 
-### Week 7: Issues Triage 1
-* In-class we triage all issues and set weekly milestones
-
-### Week 8: Advanced Version Control
+### Week 7: Advanced Version Control
 * rebase
 * merge conflicts
 
-### Week 9: Issues Triage 2
+### Week 8: Studio
+* Contribute to someone else's class project
+* Evaluate that experience
+
+### Week 9: Studio
+* Contribute to someone else's class project
+* Evaluate that experience
 
 ### Week 10: Studio
 * Contribute to someone else's class project
