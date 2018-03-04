@@ -9,7 +9,7 @@
 * Open Source Open Source
 
 ## Possible Description
-Open Source Open Source is a class about maintaining an inclusive, healthy open source project. The first half of the semester will focus on the technical aspects of project managing open source (Git, Github, Unit Testing, Continuous Integration). The second half of the semester will transition to a "studio" style course where each week an open source project is selected and the class works to contribute. 
+Open Source Open Source is a class about maintaining an inclusive, healthy open source project. The first half of the semester will focus on the technical aspects of project managing open source (Git, Github, Unit Testing, Continuous Integration). The second half of the semester will transition to a "studio" style course where each week an open source project is selected, issues and milestones are triaged, and the entire class works on making a contributution. Guest speakers will visit the class in person or over skype to talk about their experience maintaining an open source project.
 
 ## 14 week skeleton
 
