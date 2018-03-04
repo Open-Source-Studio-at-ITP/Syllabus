@@ -1,11 +1,11 @@
 # Open Source Course at ITP
 
 ## Possible Titles
-* Maintaining a Healthy Open Source Project
-* Health Open Source
-* Open Source Studio
 * Open Source with Kindness
+* Maintaining a Healthy Open Source Project
+* Healthy Open Source
 * Inclusive Open Source
+* Open Source Studio
 * Open Source Open Source
 
 ## Possible Description
