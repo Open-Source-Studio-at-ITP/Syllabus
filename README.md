@@ -61,15 +61,15 @@ Open Source Open Source is a class about maintaining an inclusive, healthy open 
 * Evaluate that experience
 
 ### Week 11: Studio
-* Contribute to someone else's class project
+* Contribute to a larger project as a group
 * Evaluate that experience
 
 ### Week 12: Studio
-* Contribute to someone else's class project
+* Contribute to a larger project as a group
 * Evaluate that experience
 
 ### Week 13: Studio
-* Contribute to someone else's class project
+* Contribute to a larger project as a group
 * Evaluate that experience
 
 ### Final Presentations
