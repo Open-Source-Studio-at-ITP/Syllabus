@@ -24,11 +24,12 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Week 1: Introduction
 * Contribute to Corpora or another open source project
 
-### Week 2: Version Control (Git basics)
+### Week 2: Version Control (Git and Github basics)
 * add, commit, branch
 * Create a Github repository:
-    * require `CONTRIBUTING.MD`?
-    * require Code of Conduct?
+    * `README.md`
+    * `CONTRIBUTING.md`
+    * Code of Conduct
    
 ### Week 3: More Git and also Github
 * Pull requests!
