@@ -1,4 +1,4 @@
-# Open Source Course at ITP
+# Open Source Studio
 
 ## Possible Titles
 * Open Source with Kindness
@@ -9,7 +9,7 @@
 * Open Source Open Source
 
 ## Possible Description
-Open Source Open Source is a class about maintaining an inclusive, healthy open source project. The first half of the semester will focus on the technical aspects of project managing open source (Git, Github, Unit Testing, Continuous Integration). Students will be required to complete short exercises that involve contributing to open source projects. The second half of the semester will transition to a "studio" style course. Students will work together and propose to develop an open source project. Each week one group's project is selected, issues and milestones are triaged in class, and all students will work to make a contribution. Guest speakers will visit the class in person or over skype to talk about their experience maintaining an open source project.
+Open Source Studio is a class about maintaining an inclusive, healthy open source project. The first half of the semester will focus on the technical aspects of project management and open source software development (Git, Github, Unit Testing, Continuous Integration). Students will be complete weekly short exercises around contributing to open source projects. The second half of the semester will transition to a "studio" style course. Students will work together and propose a contribution to an open source project or develop their own project. We'll use a broad definition for "open source" project with an emphasis on documentation and collaboration. Guest speakers will visit the class in person or over skype to talk about their experience maintaining an open source project.
 
 ## Readings
 * [What Does “Open Source” Even Mean?](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696) by Jen Kagan
@@ -24,52 +24,43 @@ Open Source Open Source is a class about maintaining an inclusive, healthy open 
 ### Week 1: Introduction
 * Contribute to Corpora or another open source project
 
-### Week 2: Version Control (Git and Github basics)
+### Week 2: Version Control (Git basics)
 * add, commit, branch
 * Create a Github repository:
     * require `CONTRIBUTING.MD`?
     * require Code of Conduct?
+   
+### Week 3: More Git and also Github
+* Pull requests!
+* Merge conflicts!
+* Github Project Managements
+  * issues, labels
+  * milestones
+  * projects
+  * wiki
 
-### Week 3: Unit Testing
+### Week 4: Unit Testing
 * Write some tests
 
-### Week 4: Continuous Integration
+### Week 5: Continuous Integration
 * Set-up continuous integration
 
-### Week 5: Project Proposals Part 1
+### Week 6: Project Proposals Part 1
 * Students propose "final projects", ideally collaborations of 2-3 students, a new open source project or contribution to existing open source project?
 
-### Week 6: Project Management
-* Issue labels
-* Projects
-* Milestones
-
-### Week 7: Advanced Version Control
-* rebase
-* merge conflicts
+### Week 7: Project Proposals Part 2
+* Students propose "final projects", ideally collaborations of 2-3 students, a new open source project or contribution to existing open source project?
 
 ### Week 8: Studio
-* Contribute to someone else's class project
-* Evaluate that experience
 
 ### Week 9: Studio
-* Contribute to someone else's class project
-* Evaluate that experience
 
 ### Week 10: Studio
-* Contribute to someone else's class project
-* Evaluate that experience
 
 ### Week 11: Studio
-* Contribute to someone else's class project
-* Evaluate that experience
 
 ### Week 12: Studio
-* Contribute to someone else's class project
-* Evaluate that experience
 
 ### Week 13: Studio
-* Contribute to someone else's class project
-* Evaluate that experience
 
 ### Final Presentations
