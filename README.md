@@ -19,6 +19,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 
 ### Week 1: Introduction, Sept 4
 * What are the essential elements of an open source project and community?
+  * [Open Source Guide](https://opensource.guide/)
 * Git and GitHub basics
   * We'll walk through the creation of a new "Open Source" group class project.
   * `README.md`
