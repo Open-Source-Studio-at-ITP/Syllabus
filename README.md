@@ -2,6 +2,9 @@
 
 Open Source Studio is a class about maintaining an inclusive, healthy open source project. The first half of the semester will cover a variety of aspects related to community, project management, and technical material for open source projects. Students will be complete weekly short exercises around contributing to open source projects. The second half of the semester will transition to a "studio" style course. Students will work together and propose a contribution to an open source project or develop their own project. We'll use a broad definition for "open source" project with an emphasis on documentation and collaboration. Guest speakers will visit the class in person or over skype to talk about their experience maintaining an open source project.
 
+# Expectations
+* 
+
 ## Outline
 
 ### Week 1: Introduction, Sept 4
@@ -68,6 +71,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 
 ### Week 8: Project Proposals, Oct 30
 * Students propose "final projects", ideally collaborations of 2-3 students, a new open source project or contribution to existing open source project?
+   * 
 
 ### Week 9: Project Development Studio, Nov 6
 * Case Study: TBA
@@ -83,3 +87,13 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Week 13: "User Testing" Workshop, Dec 4
 
 ### Week 14: Final Presentations, Dec 11
+* In addition to completing a final project for the course and presenting it in class as a group, each student is required to write a written reflection.
+   * Summarize the open source project in a few sentences.
+   * Summarize your contribution to the project.
+   * How has your idea changed from your initial project proposal?
+   * To what extent did you stick to your original timeline, how did it change?
+   * What did you learn?
+   * How did you get feedback as you worked on your project?
+   * Do you plan to continue to work on this open source project?
+   * How do you feel about contributing to open source in the future?
+
