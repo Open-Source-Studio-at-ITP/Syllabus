@@ -33,6 +33,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * projects
   * wiki
 * Reading
+  * [Introducing Yourself to Unfamiliar Open Source Projects](http://blog.melchua.com/2013/06/19/hacker-school-introducing-yourself-to-unfamiliar-open-source-projects/)
   * [The Art of Humanizing Pull Requests](https://dev.to/kulkarniankita9/the-art-of-humanizing-pull-requests-prs-2238) by Ankita Kulkarni
   * [Worms, Butterflies and Dandelions. Open source tools for the arts](https://medium.com/@tchoi8/worms-butterflies-and-dandelions-open-source-tools-for-the-arts-9b4dcd76a1f2) by Taeyoon Choi
   * [Processing and FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c) by Casey Reas
