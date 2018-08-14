@@ -2,7 +2,7 @@
 
 Open Source Studio is a class about maintaining an inclusive, healthy open source project. The first half of the semester will cover a variety of aspects related to community, project management, and technical material for open source projects. Students will be complete weekly short exercises around contributing to open source projects. The second half of the semester will transition to a "studio" style course. Students will work together and propose a contribution to an open source project or develop their own project. We'll use a broad definition for "open source" project with an emphasis on documentation and collaboration. Guest speakers will visit the class in person or over skype to talk about their experience maintaining an open source project.
 
-# Expectations
+## Expectations
 * There will be a weekly homework assignment weeks 1 to 6. For each assignment
    * Complete a short technical exercise.
    * Complete the readings.
