@@ -70,13 +70,14 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Add a unit test to our class project.
   * If you are feeling ambitious, set up your own repo with continuous integration.
 
-### Week 5: Documentation and Acccessibility, Oct 2
+### Week 5: Documentation and Accessibility, Oct 2
 * Case Study: [p5.js Accessibility](https://medium.com/processing-foundation/p5-accessibility-115d84535fa8)
 * Case Study: [Runway](https://runwayml.com/) and [Kinectron](https://kinectron.github.io/)
+* [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * `CONTRIBUTING.MD`
 * Issue templates
 * Assignment
-  * Contribute documentation to our class project.
+  * Contribute documentation to our class project. Test for accessibility.
 
 ### Week 6: Licensing, Oct 16
 * Case Study: [TensorFlow.js](https://js.tensorflow.org/) and [ml5.js](https://ml5js.org/)
