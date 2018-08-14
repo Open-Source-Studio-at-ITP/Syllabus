@@ -74,6 +74,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Case Study: [p5.js Accessibility](https://medium.com/processing-foundation/p5-accessibility-115d84535fa8)
 * Case Study: [Runway](https://runwayml.com/) and [Kinectron](https://kinectron.github.io/)
 * [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
+* [Working on the p5 Accessibility Project](https://medium.com/processing-foundation/working-on-the-p5-accessibility-project-58a781575400) by Mathura Govindarajan and Luis Morales-Navarro
 * `CONTRIBUTING.MD`
 * Issue templates
 * Assignment
