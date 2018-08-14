@@ -67,6 +67,9 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Creative Commons Licenses
 
 ### Week 7: Project Idea Workshop, Oct 23
+* Case Study: [Google Summer of Code](https://summerofcode.withgoogle.com/)
+* Reading
+  * [How to write a GSoC Proposal](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
 * A workshop to brainstorm and develop ideas for projects
 
 ### Week 8: Project Proposals, Oct 30
