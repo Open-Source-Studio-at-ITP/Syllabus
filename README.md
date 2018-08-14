@@ -69,13 +69,13 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Week 8: Project Proposals
 * Students propose "final projects", ideally collaborations of 2-3 students, a new open source project or contribution to existing open source project?
 
-### Week 9: Studio
+### Week 9: Project Development Studio
 * Case Study: TBA
 
-### Week 10: Studio
+### Week 10: Project Development Studio
 * Case Study: TBA
 
-### Week 11: Studio
+### Week 11: Project Development Studio
 * Case Study: TBA
 
 ### Week 12: In Progress Presentations
