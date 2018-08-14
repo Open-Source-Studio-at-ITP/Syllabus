@@ -78,8 +78,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Week 11: Studio
 * Case Study: TBA
 
-### Week 12: Studio
+### Week 12: In Progress Presentations
 
-### Week 13: Studio
+### Week 13: "User Testing" Workshop
 
-### Final Presentations
+### Week 14: Final Presentations
