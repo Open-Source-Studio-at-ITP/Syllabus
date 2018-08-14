@@ -59,14 +59,15 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Assignment
   * Contribute documentation to our class project.
 
-### Week 6: Project Idea Workshop
+### Week 6: Licensing
+* Open Source Software Licenses
+* Creative Commons Licenses
+
+### Week 7: Project Idea Workshop
 * A workshop to brainstorm and develop ideas for projects
 
-### Week 7: Project Proposals
+### Week 8: Project Proposals
 * Students propose "final projects", ideally collaborations of 2-3 students, a new open source project or contribution to existing open source project?
-
-### Week 8: Studio
-* Case Study: TBA
 
 ### Week 9: Studio
 * Case Study: TBA
