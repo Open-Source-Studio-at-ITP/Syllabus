@@ -70,15 +70,16 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Add a unit test to our class project.
   * If you are feeling ambitious, set up your own repo with continuous integration.
 
-### Week 5: Documentation, Oct 2
-* Case Study: [TensorFlow.js](https://js.tensorflow.org/) and [ml5.js](https://ml5js.org/)
+### Week 5: Documentation and Acccessibility, Oct 2
+* Case Study: [p5.js Accessibility](https://medium.com/processing-foundation/p5-accessibility-115d84535fa8)
+* Case Study: [Runway](https://runwayml.com/) and [Kinectron](https://kinectron.github.io/)
 * `CONTRIBUTING.MD`
 * Issue templates
 * Assignment
   * Contribute documentation to our class project.
 
 ### Week 6: Licensing, Oct 16
-* Case Study: [Runway](https://runwayml.com/) and [Kinectron](https://kinectron.github.io/)
+* Case Study: [TensorFlow.js](https://js.tensorflow.org/) and [ml5.js](https://ml5js.org/)
 * Open Source Software Licenses
 * Creative Commons Licenses
 
@@ -90,10 +91,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 
 ### Week 8: Project Proposals, Oct 30
 * Students propose "final projects", ideally collaborations of 2-3 students, a new open source project or contribution to existing open source project?
-   * 
 
 ### Week 9: Project Development Studio, Nov 6
-* Case Study: TBA
 
 ### Week 10: Project Development Studio, Nov 13
 * Case Study: TBA
