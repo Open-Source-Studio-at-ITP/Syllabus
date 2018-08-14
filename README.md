@@ -39,9 +39,9 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [Processing and FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c) by Casey Reas
   * [THE TYRANNY of STRUCTURELESSNESS](https://www.jofreeman.com/joreen/tyranny.htm) by Jo Freeman aka Joreen 
   * [Silicon Valley Thinks Politics Doesn’t Exist](https://032c.com/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
-* Assignment: Create an open source dataset and contribute to an existing repository (like Corpora) or create a new one.
-Case Study: [The Processing Foundation](https://processingfoundation.org/), [p5.js](https://p5js.org/)
-* 
+* Assignment
+  * Create an open source dataset and contribute to an existing repository (like Corpora) or create a new one.
+
 
 ### Week 3: Code of Conduct / Community, Sept 18
 * Guest Speaker: [Taeyoon Choi](http://taeyoonchoi.com/), Cofounder of [School for Poetic Computation](http://sfpc.io/), Initiator of [Distributed Web of Care](http://distributedweb.care/).  
@@ -53,7 +53,7 @@ Case Study: [The Processing Foundation](https://processingfoundation.org/), [p5.
   * Contribute to our class Code of Conduct.
 
 ### Week 4: Unit Testing and Continuous Integration, Sept 25
-* Case Study: [TensorFlow.js](https://js.tensorflow.org/) and [ml5.js](https://ml5js.org/)
+* Case Study: [The Processing Foundation](https://processingfoundation.org/), [p5.js](https://p5js.org/)
 * Unit Testing basics
 * CircleCI and Travis
 * Assignment: 
@@ -61,13 +61,14 @@ Case Study: [The Processing Foundation](https://processingfoundation.org/), [p5.
   * If you are feeling ambitious, set up your own repo with continuous integration.
 
 ### Week 5: Documentation, Oct 2
-* Case Study: [Runway](https://runwayml.com/) and [Kinectron](https://kinectron.github.io/)
+* Case Study: [TensorFlow.js](https://js.tensorflow.org/) and [ml5.js](https://ml5js.org/)
 * `CONTRIBUTING.MD`
 * Issue templates
 * Assignment
   * Contribute documentation to our class project.
 
 ### Week 6: Licensing, Oct 16
+* Case Study: [Runway](https://runwayml.com/) and [Kinectron](https://kinectron.github.io/)
 * Open Source Software Licenses
 * Creative Commons Licenses
 
