@@ -17,6 +17,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Reading
   * [What Does “Open Source” Even Mean?](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696) by Jen Kagan
   * [Inessential Weirdnesses in Open Source Software](https://www.harihareswara.net/sumana/2016/05/21/0) by Sumana Harihareswara
+  * [Introducing Yourself to Unfamiliar Open Source Projects](http://blog.melchua.com/2013/06/19/hacker-school-introducing-yourself-to-unfamiliar-open-source-projects/)
 * Assignment:
   * Using the GitHub interface, Open an issue in our class project.
   * Using the GitHub interface, create a pull request in our class project.
@@ -33,14 +34,17 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * projects
   * wiki
 * Reading
-  * [Introducing Yourself to Unfamiliar Open Source Projects](http://blog.melchua.com/2013/06/19/hacker-school-introducing-yourself-to-unfamiliar-open-source-projects/)
   * [The Art of Humanizing Pull Requests](https://dev.to/kulkarniankita9/the-art-of-humanizing-pull-requests-prs-2238) by Ankita Kulkarni
   * [Worms, Butterflies and Dandelions. Open source tools for the arts](https://medium.com/@tchoi8/worms-butterflies-and-dandelions-open-source-tools-for-the-arts-9b4dcd76a1f2) by Taeyoon Choi
   * [Processing and FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c) by Casey Reas
+  * [THE TYRANNY of STRUCTURELESSNESS](https://www.jofreeman.com/joreen/tyranny.htm) by Jo Freeman aka Joreen 
+  * [Silicon Valley Thinks Politics Doesn’t Exist](https://032c.com/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
 * Assignment: Create an open source dataset and contribute to an existing repository (like Corpora) or create a new one.
+Case Study: [The Processing Foundation](https://processingfoundation.org/), [p5.js](https://p5js.org/)
+* 
 
 ### Week 3: Code of Conduct / Community, Sept 18
-* Case Study: [The Processing Foundation](https://processingfoundation.org/), [p5.js](https://p5js.org/)
+* Guest Speaker: [Taeyoon Choi](http://taeyoonchoi.com/), Cofounder of [School for Poetic Computation](http://sfpc.io/), Initiator of [Distributed Web of Care](http://distributedweb.care/).  
 * Reading
   * [How We’re Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) by Emma Irwin
   * [A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e) by Emma Irwin
