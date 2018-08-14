@@ -4,7 +4,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 
 ## Outline
 
-### Week 1: Introduction
+### Week 1: Introduction, Sept 4
 * What are the essential elements of an open source project and community?
 * Git and GitHub basics
   * We'll walk through the creation of a new "Open Source" group class project.
@@ -19,7 +19,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Using the GitHub interface, create a pull request in our class project.
   * Comment on at least two other issues / pull requests.
 
-### Week 2: More Version Control and Project Management
+### Week 2: More Version Control and Project Management, Sept 11
 * Case Study: [Corpora](https://github.com/dariusk/corpora) and [The Library of Missing DataSets](http://mimionuoha.com/the-library-of-missing-datasets/)
 * Branches and Forks
 * Using the command line
@@ -35,7 +35,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [Processing and FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c) by Casey Reas
 * Assignment: Create an open source dataset and contribute to an existing repository (like Corpora) or create a new one.
 
-### Week 3: Code of Conduct / Community
+### Week 3: Code of Conduct / Community, Sept 18
 * Case Study: [The Processing Foundation](https://processingfoundation.org/), [p5.js](https://p5js.org/)
 * Reading
   * [How We’re Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) by Emma Irwin
@@ -44,7 +44,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Assignment
   * Contribute to our class Code of Conduct.
 
-### Week 4: Unit Testing and Continuous Integration
+### Week 4: Unit Testing and Continuous Integration, Sept 25
 * Case Study: [TensorFlow.js](https://js.tensorflow.org/) and [ml5.js](https://ml5js.org/)
 * Unit Testing basics
 * CircleCI and Travis
@@ -52,34 +52,34 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Add a unit test to our class project.
   * If you are feeling ambitious, set up your own repo with continuous integration.
 
-### Week 5: Documentation
+### Week 5: Documentation, Oct 2
 * Case Study: [Runway](https://runwayml.com/) and [Kinectron](https://kinectron.github.io/)
 * `CONTRIBUTING.MD`
 * Issue templates
 * Assignment
   * Contribute documentation to our class project.
 
-### Week 6: Licensing
+### Week 6: Licensing, Oct 16
 * Open Source Software Licenses
 * Creative Commons Licenses
 
-### Week 7: Project Idea Workshop
+### Week 7: Project Idea Workshop, Oct 23
 * A workshop to brainstorm and develop ideas for projects
 
-### Week 8: Project Proposals
+### Week 8: Project Proposals, Oct 30
 * Students propose "final projects", ideally collaborations of 2-3 students, a new open source project or contribution to existing open source project?
 
-### Week 9: Project Development Studio
+### Week 9: Project Development Studio, Nov 6
 * Case Study: TBA
 
-### Week 10: Project Development Studio
+### Week 10: Project Development Studio, Nov 13
 * Case Study: TBA
 
-### Week 11: Project Development Studio
+### Week 11: Project Development Studio, Nov 20
 * Case Study: TBA
 
-### Week 12: In Progress Presentations
+### Week 12: In Progress Presentations, Nov 27
 
-### Week 13: "User Testing" Workshop
+### Week 13: "User Testing" Workshop, Dec 4
 
-### Week 14: Final Presentations
+### Week 14: Final Presentations, Dec 11
