@@ -3,10 +3,11 @@
 Open Source Studio is a class about maintaining an inclusive, healthy open source project. The first half of the semester will cover a variety of aspects related to community, project management, and technical material for open source projects. Students will complete weekly  exercises around contributing to open source. The second half of the semester will transition to a "studio" style course. Students will work together and propose a contribution to an open source project or develop their own project. We'll use a broad definition for "open source" project with an emphasis on documentation and collaboration. Guest speakers will visit the class in person or via video to talk about their experience maintaining an open source project.
 
 ## Expectations
-* There will be a weekly homework assignment weeks 1 to 6. For each assignment
+* There will be a weekly homework assignment weeks 1 to 6. For each assignment:
    * Complete a short technical exercise.
    * Complete the readings.
    * Write a reflection on the exercise and readings in the form of a blog post (or equivalent).
+* In addition to the weekly assignments, all students will be required (in small groups) to present [a "case study" evaluation](https://github.com/shiffman/Open-Source-Studio-ITP/blob/master/CaseStudy.md) of an open source project.
 * Weeks 7-8, you will be expected to create a project proposal in the form of a blog post (or equivalent). This should include:
    * Summary of project idea.
    * Bios of contributors.
@@ -35,7 +36,6 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Comment on at least two other issues / pull requests.
 
 ### Week 2: More Version Control and Project Management, Sept 11
-* Case Study: [Corpora](https://github.com/dariusk/corpora) and [The Library of Missing DataSets](http://mimionuoha.com/the-library-of-missing-datasets/)
 * Branches and Forks
 * Using the command line
 * Merge conflicts!
@@ -64,7 +64,6 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Contribute to our class Code of Conduct.
 
 ### Week 4: Unit Testing and Continuous Integration, Sept 25
-* Case Study: [The Processing Foundation](https://processingfoundation.org/), [p5.js](https://p5js.org/)
 * Unit Testing basics
 * CircleCI and Travis
 * Assignment: 
@@ -72,8 +71,6 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * If you are feeling ambitious, set up your own repo with continuous integration.
 
 ### Week 5: Documentation and Accessibility, Oct 2
-* Case Study: [p5.js Accessibility](https://medium.com/processing-foundation/p5-accessibility-115d84535fa8)
-* Case Study: [Runway](https://runwayml.com/) and [Kinectron](https://kinectron.github.io/)
 * [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [Working on the p5 Accessibility Project](https://medium.com/processing-foundation/working-on-the-p5-accessibility-project-58a781575400) by Mathura Govindarajan and Luis Morales-Navarro
 * `CONTRIBUTING.MD`
@@ -82,12 +79,12 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Contribute documentation to our class project. Test for accessibility.
 
 ### Week 6: Licensing, Oct 16
-* Case Study: [TensorFlow.js](https://js.tensorflow.org/) and [ml5.js](https://ml5js.org/)
 * Open Source Software Licenses
 * Creative Commons Licenses
 
 ### Week 7: Project Idea Workshop, Oct 23
-* Case Study: [Google Summer of Code](https://summerofcode.withgoogle.com/)
+* [Google Summer of Code](https://summerofcode.withgoogle.com/)
+* [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
 * Reading
   * [How to write a GSoC Proposal](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
 * A workshop to brainstorm and develop ideas for projects
@@ -98,10 +95,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Week 9: Project Development Studio, Nov 6
 
 ### Week 10: Project Development Studio, Nov 13
-* Case Study: TBA
 
 ### Week 11: Project Development Studio, Nov 20
-* Case Study: TBA
 
 ### Week 12: In Progress Presentations, Nov 27
 
