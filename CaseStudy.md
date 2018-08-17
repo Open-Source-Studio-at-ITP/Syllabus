@@ -11,7 +11,7 @@ On the first day of class, students will be placed into groups of 2. Each group 
 * Describe the project's community. Are there separate developer / user communities? Where are the primary places they interact?
 * Does the project have a Code of Conduct? What does it consist of? If it does not, why?
 * Does the project have a license? Why was the license chosen?
-* Evaluate the project's approach to equity, diversity, and inclusion in its community.
+* Evaluate the project's approach to equity, diversity, and inclusion in its community. [What's the difference between diversity, inclusion, and equity?](https://generalassemb.ly/blog/diversity-inclusion-equity-differences-in-meaning/) by Meg Bolger.
 * Is the project still active? Why or why not?
 * What is the future of the project? 
 
