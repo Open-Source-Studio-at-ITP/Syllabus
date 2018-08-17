@@ -1,6 +1,6 @@
 # Open Source "Case Study"
 
-On the first day of class, students will be placed into groups of 2. Each group will be scheduled for a "case study" presentation about an open source project of their choosing (some suggestions below and if you are struggling, I am happy to assign one to you.) Each case study should consist of an in-class presentation and write-up (in the form of a blog or medium post). Case study presentations should be 15-20 minutes with 5-10 minutes of questions and discussion. They should include research on the following:
+On the first day of class, students will be placed into groups of 2. Each group will be scheduled for a "case study" presentation about an open source project of their choosing (some suggestions below and if you are struggling, I am happy to assign one to you.) Projects can anything and do not need to be "code" based. They can range from large ones maintained by a company like [TensorFlow](https://www.tensorflow.org/)) to small and maintained by a single person ([Tracery](http://tracery.io/)) to medium-sized and funded through donations and grants like [The Processing Foundation](http://processingfoundation.org). Each case study should consist of an in-class presentation and write-up (in the form of a blog or medium post). Case study presentations should be 15-20 minutes with 5-10 minutes of questions and discussion. They should include research on the following:
 
 ## Case Study Questions
 
