@@ -80,6 +80,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Contribute documentation to our class project. Test for accessibility.
 
 ### Week 6: Licensing, Oct 16
+* Guest Speaker: [Dan Phiffer](https://phiffer.org/)
 * Open Source Software Licenses
 * Creative Commons Licenses
 
