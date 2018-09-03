@@ -29,7 +29,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Reading
   * [What Does “Open Source” Even Mean?](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696) by Jen Kagan
   * [Inessential Weirdnesses in Open Source Software](https://www.harihareswara.net/sumana/2016/05/21/0) by Sumana Harihareswara
-  * [Introducing Yourself to Unfamiliar Open Source Projects](http://blog.melchua.com/2013/06/19/hacker-school-introducing-yourself-to-unfamiliar-open-source-projects/)
+  * [Bring Kindness by to Open Source](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by Scott Hanselman
+  * [Introducing Yourself to Unfamiliar Open Source Projects](http://blog.melchua.com/2013/06/19/hacker-school-introducing-yourself-to-unfamiliar-open-source-projects/) by Mel Chua
 * Assignment:
   * Using the GitHub interface, Open an issue in our class project.
   * Using the GitHub interface, create a pull request in our class project.
