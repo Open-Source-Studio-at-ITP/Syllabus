@@ -35,6 +35,7 @@ On the first day of class, students will be placed into groups of 2. Each group 
 * [The Library of Missing DataSets](http://mimionuoha.com/the-library-of-missing-datasets/)
 * [Tracery](http://tracery.io/)
 * [p5.js](https://p5js.org/), [Processing](http://processing.org)
+* [Good for PoC](https://github.com/GoodForPoC/GoodForPoC)
 * [p5.js Accessibility](https://medium.com/processing-foundation/p5-accessibility-115d84535fa8)
 * [Runway](https://runwayml.com/)
 * [Kinectron](https://kinectron.github.io/)
