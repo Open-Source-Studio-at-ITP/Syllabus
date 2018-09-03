@@ -28,6 +28,7 @@ On the first day of class, students will be placed into groups of 2. Each group 
   * case study 6
 * Week 6: Oct 16
   * case study 7
+  * case study 8
 
 ## Ideas for Case Studies
 * [Corpora](https://github.com/dariusk/corpora)
