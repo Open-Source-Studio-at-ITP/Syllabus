@@ -71,6 +71,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * If you are feeling ambitious, set up your own repo with continuous integration.
 
 ### Week 5: Documentation and Accessibility, Oct 2
+* Guest Speaker: [Claire Kearney-Volpe](http://www.takinglifeseriously.com/about.html)
 * [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [Working on the p5 Accessibility Project](https://medium.com/processing-foundation/working-on-the-p5-accessibility-project-58a781575400) by Mathura Govindarajan and Luis Morales-Navarro
 * `CONTRIBUTING.MD`
