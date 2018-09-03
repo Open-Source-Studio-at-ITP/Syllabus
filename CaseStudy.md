@@ -41,5 +41,7 @@ On the first day of class, students will be placed into groups of 2. Each group 
 * [Kinectron](https://kinectron.github.io/)
 * [TensorFlow.js](https://js.tensorflow.org/)
 * [ml5.js](https://ml5js.org/)
+* [Projects listed as "Great for New Contributors"](https://github.com/showcases/great-for-new-contributors)
+* [Projects listed as "Awesome for Beginners"](https://github.com/MunGell/awesome-for-beginners)
 
 
