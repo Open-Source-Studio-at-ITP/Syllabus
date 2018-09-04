@@ -4,7 +4,7 @@ On the first day of class, students will be placed into groups of 2. Each group 
 
 ## Case Study Questions
 
-* Describe what the project is. Does it have a missions statement?
+* Describe what the project is. Does it have a mission statement?
 * Describe the history of the project -- when / how did it start? Has it grown? 
 * Who are the contributors to the project?
 * Describe the project's funding. Is it funded? What kinds of support does it get?
@@ -31,8 +31,8 @@ On the first day of class, students will be placed into groups of 2. Each group 
   * case study 8
 
 ## Ideas for Case Studies
-* [Corpora](https://github.com/dariusk/corpora)
-* [The Library of Missing DataSets](http://mimionuoha.com/the-library-of-missing-datasets/)
+
+### Open Source Software
 * [Tracery](http://tracery.io/)
 * [p5.js](https://p5js.org/), [Processing](http://processing.org)
 * [Good for PoC](https://github.com/GoodForPoC/GoodForPoC)
@@ -44,4 +44,9 @@ On the first day of class, students will be placed into groups of 2. Each group 
 * [Projects listed as "Great for New Contributors"](https://github.com/showcases/great-for-new-contributors)
 * [Projects listed as "Awesome for Beginners"](https://github.com/MunGell/awesome-for-beginners)
 
+### Open Source Data
+* [Corpora](https://github.com/dariusk/corpora)
+* [The Library of Missing DataSets](http://mimionuoha.com/the-library-of-missing-datasets/)
 
+### Other
+* [Open Source Judaism](https://en.wikipedia.org/wiki/Open-source_religion#Open-source_Judaism)
