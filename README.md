@@ -25,7 +25,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * We'll walk through the creation of a new "Open Source" group class project.
   * `README.md`
   * `CONTRIBUTING.md`
-  * Code of Conduct
+  * `CODE_OF_CONDUCT.md`
 * Reading
   * [What Does “Open Source” Even Mean?](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696) by Jen Kagan
   * [Inessential Weirdnesses in Open Source Software](https://www.harihareswara.net/sumana/2016/05/21/0) by Sumana Harihareswara
