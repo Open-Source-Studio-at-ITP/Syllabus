@@ -58,6 +58,10 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 
 ### Week 3: Code of Conduct / Community, Sept 18
 * Guest Speaker: [Taeyoon Choi](http://taeyoonchoi.com/), Cofounder of [School for Poetic Computation](http://sfpc.io/), Initiator of [Distributed Web of Care](http://distributedweb.care/).  
+* Example Code of Conduct
+  * [Code Newbies](https://www.codenewbie.org/blogs/our-code-of-conduct)
+  * [p5.js Code of Conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)
+  * [Progressive Hack Night](http://www.progressivehacknight.org/culture/2017/07/01/code-of-conduct.html)
 * Reading
   * [How We’re Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) by Emma Irwin
   * [A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e) by Emma Irwin
