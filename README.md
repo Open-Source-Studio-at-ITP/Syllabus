@@ -71,6 +71,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Contribute to our class Code of Conduct.
 
 ### Week 4: Unit Testing and Continuous Integration, Sept 25
+* Guest: [dev.to](https://dev.to/)
 * Unit Testing basics
 * CircleCI and Travis
 * Assignment: 
