@@ -33,10 +33,12 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [Bring Kindness by to Open Source](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by Scott Hanselman
   * [Introducing Yourself to Unfamiliar Open Source Projects](http://blog.melchua.com/2013/06/19/hacker-school-introducing-yourself-to-unfamiliar-open-source-projects/) by Mel Chua
 * Assignment:
-  * Using the GitHub interface, Open an issue in our class project.
-  * Using the GitHub interface, create a pull request in our class project.
+  * Open an issue in the [Open Source Studio Playground](https://github.com/shiffman/Open-Source-Studio-Playground).
+  * Create a pull request in the [Open Source Studio Playground](https://github.com/shiffman/Open-Source-Studio-Playground).
   * Comment on at least two other issues / pull requests.
-
+  * Write some reflections on what open source means to you. Have you participated in an open source project before? What was your experience like? If not, why not? Respond to any of the readings above. You can write this as a blog post or medium post (be mindful of including image captions for accessibility). Pull request a link to your post below:
+    * Name: [title of post](url to post)
+    
 ### Week 2: More Version Control and Project Management, Sept 11
 * Branches and Forks
 * Using the command line
