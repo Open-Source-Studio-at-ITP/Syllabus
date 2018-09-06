@@ -87,15 +87,22 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Assignment
   * Contribute documentation to our class project. Test for accessibility.
 
-### Week 6: Licensing, Oct 16
+### Week 6: Licensing and Funding, Oct 16
 * Guest Speaker: [Dan Phiffer](https://phiffer.org/)
-* Open Source Software Licenses
 * Creative Commons Licenses
+* Open Source Software Licenses
+  * [Choose a License](https://choosealicense.com/)
+  * [Aaron Swartz's License Haikus](http://www.aaronsw.com/weblog/000360)
+* Funding
+  * [What’s Your Open Source Strategy? Here Are 10 Answers…](https://blog.mozilla.org/blog/2018/05/15/whats-your-open-source-strategy-here-are-10-answers/) a research report from Mozilla and Open Tech by Patrick Finch
+  * [Funding Open Source the Hard Way](https://youtu.be/HokXBjDS_UA) from Nadia Eghbal, [slides of talk](https://www.slideshare.net/NadiaEghbal/funding-open-source-the-hard-way)
 
 ### Week 7: Project Idea Workshop, Oct 23
-* [Google Summer of Code](https://summerofcode.withgoogle.com/)
+* [Outreachy](https://www.outreachy.org/apply/)
 * [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
+* [Google Summer of Code](https://summerofcode.withgoogle.com/)
 * Reading
+  * [Getting into Summer of Code Programs](http://exploreshaifali.github.io/2015/06/08/getting-into-summer-of-code-programs/) by Shaifali
   * [How to write a GSoC Proposal](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
 * A workshop to brainstorm and develop ideas for projects
 
