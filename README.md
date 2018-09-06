@@ -26,6 +26,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * `README.md`
   * `CONTRIBUTING.md`
   * `CODE_OF_CONDUCT.md`
+  * [Git and GitHub video tutorial playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 * Reading
   * [What Does “Open Source” Even Mean?](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696) by Jen Kagan
   * [Inessential Weirdnesses in Open Source Software](https://www.harihareswara.net/sumana/2016/05/21/0) by Sumana Harihareswara
@@ -35,10 +36,10 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Assignment:
   * Open an issue in the [Open Source Studio Playground](https://github.com/shiffman/Open-Source-Studio-Playground).
   * Create a pull request in the [Open Source Studio Playground](https://github.com/shiffman/Open-Source-Studio-Playground).
-  * Comment on at least two other issues / pull requests.
+  * Comment on at least one other issue / pull request.
   * Write some reflections on what open source means to you. Have you participated in an open source project before? What was your experience like? If not, why not? Respond to any of the readings above. You can write this as a blog post or medium post (be mindful of including image captions for accessibility). Pull request a link to your post below:
     * Name: [title of post](url to post)
-    
+
 ### Week 2: More Version Control and Project Management, Sept 11
 * Branches and Forks
 * Using the command line
