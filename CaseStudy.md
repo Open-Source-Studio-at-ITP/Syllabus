@@ -17,18 +17,18 @@ On the first day of class, students will be placed into groups of 2. Each group 
 
 ## Case Study Schedule
 * Week 2: Sept 11
-  * Jiwon & James: Blender.
+  * Jiwon, James: Blender.
 * Week 3: Sept 18
-  * case study 2
-  * case study 3
+  * Ilana, Hadar
 * Week 4: Sept 25
-  * case study 4
-  * case study 5
+  * Wenhe, Krizia
+  * Chuyi, Jesse
 * Week 5: Oct 2
-  * case study 6
+  * Luna, Camille
+  * Nicolas, Alice
 * Week 6: Oct 16
-  * case study 7
-  * case study 8
+  * Emma, Amitabh
+  * Jinzhong, Ahmad
 
 ## Ideas for Case Studies
 
