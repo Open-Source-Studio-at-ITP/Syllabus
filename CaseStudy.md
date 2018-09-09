@@ -19,16 +19,16 @@ On the first day of class, students will be placed into groups of 2. Each group 
 * Week 2: Sept 11
   * Jiwon, James: Blender.
 * Week 3: Sept 18
-  * Ilana, Hadar
+  * Jinzhong, Wenhe: Redux
 * Week 4: Sept 25
-  * Wenhe, Krizia
+  * Ilana, Krizia
   * Chuyi, Jesse
 * Week 5: Oct 2
   * Luna, Camille
   * Nicolas, Alice
 * Week 6: Oct 16
   * Emma, Amitabh
-  * Jinzhong, Ahmad
+  * Hadar, Ahmad
 
 ## Ideas for Case Studies
 
