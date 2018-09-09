@@ -16,24 +16,23 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Weeks 9-13 will focus on developing the project.
 * Week 14 you will be expected to present your final project and complete a written reflection. See below for more details.
 
-## Outline
 
-### Week 1: Introduction, Sept 4
-#### What are the essential elements of an open source project and community?
+## Week 1: Introduction, Sept 4
+### What are the essential elements of an open source project and community?
   * [Open Source Guide](https://opensource.guide/)
-#### Git and GitHub basics
+### Git and GitHub basics
   * We'll walk through the creation of a new "Open Source" group class project.
   * `README.md`
   * `CONTRIBUTING.md`
   * `CODE_OF_CONDUCT.md`
   * [Git and GitHub video tutorial playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-#### Reading
+### Reading
   * [What Does “Open Source” Even Mean?](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696) by Jen Kagan
   * [Inessential Weirdnesses in Open Source Software](https://www.harihareswara.net/sumana/2016/05/21/0) by Sumana Harihareswara
   * [OSSTA-Zine](https://github.com/galaxykate/OSSTA-Zine) by Kate Compton
   * [Bring Kindness by to Open Source](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by Scott Hanselman
   * [Introducing Yourself to Unfamiliar Open Source Projects](http://blog.melchua.com/2013/06/19/hacker-school-introducing-yourself-to-unfamiliar-open-source-projects/) by Mel Chua
-#### Assignment:
+### Assignment:
   * Open an issue in the [Open Source Studio Playground](https://github.com/shiffman/Open-Source-Studio-Playground).
   * Create a pull request in the [Open Source Studio Playground](https://github.com/shiffman/Open-Source-Studio-Playground).
   * Comment on at least one other issue / pull request.
@@ -41,8 +40,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Jinzhong Yu: [What Open Soure Means to Me](https://yuuno.cc/articles/what-open-source-means-to-me)
     * Name: [title of post](url to post)
 
-### Week 2: More Version Control and Project Management, Sept 11
-#### More Git and GitHub
+## Week 2: More Version Control and Project Management, Sept 11
+### More Git and GitHub
 * Branches and Forks
 * Using the command line
 * Merge conflicts!
@@ -51,89 +50,89 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * milestones
   * projects
   * wiki
-#### Reading
+### Reading
   * [The Art of Humanizing Pull Requests](https://dev.to/kulkarniankita9/the-art-of-humanizing-pull-requests-prs-2238) by Ankita Kulkarni
   * [Worms, Butterflies and Dandelions. Open source tools for the arts](https://medium.com/@tchoi8/worms-butterflies-and-dandelions-open-source-tools-for-the-arts-9b4dcd76a1f2) by Taeyoon Choi
   * [Processing and FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c) by Casey Reas
   * [THE TYRANNY of STRUCTURELESSNESS](https://www.jofreeman.com/joreen/tyranny.htm) by Jo Freeman aka Joreen 
   * [Silicon Valley Thinks Politics Doesn’t Exist](https://032c.com/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
-#### Reading
+### Reading
   * Create an open source dataset and contribute to an existing repository (like Corpora) or create a new one.
 
-### Week 3: Code of Conduct / Community, Sept 18
-#### Guest Speaker
+## Week 3: Code of Conduct / Community, Sept 18
+### Guest Speaker
 * [Taeyoon Choi](http://taeyoonchoi.com/), Cofounder of [School for Poetic Computation](http://sfpc.io/), Initiator of [Distributed Web of Care](http://distributedweb.care/).  
-#### Example Code of Conduct
+### Example Code of Conduct
   * [Code Newbies](https://www.codenewbie.org/blogs/our-code-of-conduct)
   * [p5.js Code of Conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)
   * [Progressive Hack Night](http://www.progressivehacknight.org/culture/2017/07/01/code-of-conduct.html)
-#### Reading
+### Reading
   * [How We’re Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) by Emma Irwin
   * [A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e) by Emma Irwin
   * [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
   * [Open Source Guide: Building Community](https://opensource.guide/building-community/)
-##### Assignment
+#### Assignment
   * Contribute to our class Code of Conduct.
 
-### Week 4: Unit Testing and Continuous Integration, Sept 25
-#### Guest
+## Week 4: Unit Testing and Continuous Integration, Sept 25
+### Guest
 * [dev.to](https://dev.to/)
-#### Unit Testing basics
-#### CircleCI and Travis
-#### Assignment: 
+### Unit Testing basics
+### CircleCI and Travis
+### Assignment: 
   * Add a unit test to our class project.
   * If you are feeling ambitious, set up your own repo with continuous integration.
 
-### Week 5: Documentation and Accessibility, Oct 2
-#### Guest Speaker
+## Week 5: Documentation and Accessibility, Oct 2
+### Guest Speaker
 * [Claire Kearney-Volpe](http://www.takinglifeseriously.com/about.html)
-#### Accessibility
+### Accessibility
 * [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [Working on the p5 Accessibility Project](https://medium.com/processing-foundation/working-on-the-p5-accessibility-project-58a781575400) by Mathura Govindarajan and Luis Morales-Navarro
-#### Documentation
+### Documentation
 * `CONTRIBUTING.MD`
 * Issue templates
-#### Assignment
+### Assignment
   * Contribute documentation to our class project. Test for accessibility.
 
-### Week 6: Licensing and Funding, Oct 16
-#### Guest Speaker
+## Week 6: Licensing and Funding, Oct 16
+### Guest Speaker
 * [Dan Phiffer](https://phiffer.org/)
-#### Licenses
+### Licenses
 * Creative Commons Licenses
 * Open Source Software Licenses
   * [Choose a License](https://choosealicense.com/)
   * [Aaron Swartz's License Haikus](http://www.aaronsw.com/weblog/000360)
-#### Funding
+### Funding
   * [What’s Your Open Source Strategy? Here Are 10 Answers…](https://blog.mozilla.org/blog/2018/05/15/whats-your-open-source-strategy-here-are-10-answers/) a research report from Mozilla and Open Tech by Patrick Finch
   * [Funding Open Source the Hard Way](https://youtu.be/HokXBjDS_UA) from Nadia Eghbal, [slides of talk](https://www.slideshare.net/NadiaEghbal/funding-open-source-the-hard-way)
-#### Assignment
+### Assignment
 
-### Week 7: Project Idea Workshop, Oct 23
-#### Open Source Contributor Programs
+## Week 7: Project Idea Workshop, Oct 23
+### Open Source Contributor Programs
 * [Outreachy](https://www.outreachy.org/apply/)
 * [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
-#### Reading
+### Reading
   * [Getting into Summer of Code Programs](http://exploreshaifali.github.io/2015/06/08/getting-into-summer-of-code-programs/) by Shaifali
   * [How to write a GSoC Proposal](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
-#### Assignment
+### Assignment
 * Write a project proposal
 
-### Week 8: Project Proposals, Oct 30
+## Week 8: Project Proposals, Oct 30
 * Students propose "final projects", ideally collaborations of 2-3 students, a new open source project or contribution to existing open source project?
 
-### Week 9: Project Development Studio, Nov 6
+## Week 9: Project Development Studio, Nov 6
 
-### Week 10: Project Development Studio, Nov 13
+## Week 10: Project Development Studio, Nov 13
 
-### Week 11: Project Development Studio, Nov 20
+## Week 11: Project Development Studio, Nov 20
 
-### Week 12: In Progress Presentations, Nov 27
+## Week 12: In Progress Presentations, Nov 27
 
-### Week 13: "User Testing" Workshop, Dec 4
+## Week 13: "User Testing" Workshop, Dec 4
 
-### Week 14: Final Presentations, Dec 11
+## Week 14: Final Presentations, Dec 11
 In addition to completing a final project for the course and presenting it in class as a group, each student is required to write a written reflection.
    * Summarize the open source project in a few sentences.
    * Summarize your contribution to the project.
