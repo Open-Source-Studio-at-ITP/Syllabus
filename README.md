@@ -39,6 +39,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Write some reflections on what open source means to you. Have you participated in an open source project before? What was your experience like? If not, why not? Respond to any of the readings above. You can write this as a blog post or medium post (be mindful of including image captions for accessibility). Pull request a link to your post below:
     * Jinzhong Yu: [What Open Soure Means to Me](https://yuuno.cc/articles/what-open-source-means-to-me)
     * Name: [title of post](url to post)
+    * Emma Rae Norton: [What does open source mean to me?](https://spaghettimeatballsbecomereallyfrightening.online/oss/what-does-open-source-mean-to-me/)
 
 ## Week 2: More Version Control and Project Management, Sept 11
 ### More Git and GitHub
