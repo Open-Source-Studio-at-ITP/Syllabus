@@ -38,9 +38,9 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Comment on at least one other issue / pull request.
   * Write some reflections on what open source means to you. Have you participated in an open source project before? What was your experience like? If not, why not? Respond to any of the readings above. You can write this as a blog post or medium post (be mindful of including image captions for accessibility). Pull request a link to your post below:
     * Jinzhong Yu: [What Open Soure Means to Me](https://yuuno.cc/articles/what-open-source-means-to-me)
+    * Wenhe Li: [Open Source, Github and Myself](https://medium.com/@wenhe.li98/open-source-github-and-i-3b7e6fa2c73a)
     * Luna Olavarría Gallegos: [What is Open Source](https://wp.nyu.edu/luna/2018/09/10/assignment-1-what-is-open-source/)
     * Vince Shao: [The Familiar Yet Distant Open Source Community](https://wp.nyu.edu/vinceshao/2018/09/10/the-familiar-yet-distant-open-source-community/)
-    * Name: [title of post](url to post)
 
 ## Week 2: More Version Control and Project Management, Sept 11
 ### More Git and GitHub
