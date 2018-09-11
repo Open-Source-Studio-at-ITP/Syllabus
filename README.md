@@ -49,15 +49,18 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Camille Weins: [My Thoughts on Open Source](https://medium.com/@camilleweins/my-thoughts-on-open-source-cbb53d2d5907)
 
 ## Week 2: More Version Control and Project Management, Sept 11
-### More Git and GitHub
-* Branches and Forks
-* Using the command line
-* Merge conflicts!
+### "Open Source Studio" Triage and Discussion
+* GitHub Organization
+  * People / Teams
 * Project Management
   * issues, labels
   * milestones
   * projects
   * wiki
+### More Git and GitHub
+* Branches and Forks
+* Using the command line
+* Merge conflicts!
 ### Reading
   * [The Art of Humanizing Pull Requests](https://dev.to/kulkarniankita9/the-art-of-humanizing-pull-requests-prs-2238) by Ankita Kulkarni
   * [Worms, Butterflies and Dandelions. Open source tools for the arts](https://medium.com/@tchoi8/worms-butterflies-and-dandelions-open-source-tools-for-the-arts-9b4dcd76a1f2) by Taeyoon Choi
@@ -65,7 +68,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [THE TYRANNY of STRUCTURELESSNESS](https://www.jofreeman.com/joreen/tyranny.htm) by Jo Freeman aka Joreen 
   * [Silicon Valley Thinks Politics Doesn’t Exist](https://032c.com/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
 ### Reading
-  * Create an open source dataset and contribute to an existing repository (like Corpora) or create a new one.
+  * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one.
 
 ## Week 3: Code of Conduct / Community, Sept 18
 ### Guest Speaker
