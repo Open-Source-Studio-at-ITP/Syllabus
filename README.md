@@ -44,6 +44,9 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Luna Olavarría Gallegos: [What is Open Source](https://wp.nyu.edu/luna/2018/09/10/assignment-1-what-is-open-source/)
     * Vince Shao: [The Familiar Yet Distant Open Source Community](https://wp.nyu.edu/vinceshao/2018/09/10/the-familiar-yet-distant-open-source-community/)
     * Alice Sun: [Introducing Yourself to Unfamiliar Open Source Projects](http://www.alicehgsun.com/introducing-yourself-to-open-source)
+    * Jiwon Shin: [Open Source - What's so "open" about it?](https://js6450.github.io/OpenSourceStudio/weekly/1.html)
+    * Chuyi Zhang: [What I Missed about Open Source](https://medium.com/@romolazhang/what-i-missed-about-open-source-3379bbd0e224)
+    * Camille Weins: [My Thoughts on Open Source](https://medium.com/@camilleweins/my-thoughts-on-open-source-cbb53d2d5907)
 
 ## Week 2: More Version Control and Project Management, Sept 11
 ### More Git and GitHub
