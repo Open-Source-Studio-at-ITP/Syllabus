@@ -48,6 +48,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Chuyi Zhang: [What I Missed about Open Source](https://medium.com/@romolazhang/what-i-missed-about-open-source-3379bbd0e224)
     * Camille Weins: [My Thoughts on Open Source](https://medium.com/@camilleweins/my-thoughts-on-open-source-cbb53d2d5907)
     * James Hosken: [The Three Tenets of Open Source](https://generallyplayful.com/itp/oss/the-three-tenets-of-open-source/)
+    * Ahmad Arshad: [My open source experience](https://dev1.ed-projects.nyu.edu/geotools/2018/09/11/ossp-week-1-reflections/)
 
 ## Week 2: More Version Control and Project Management, Sept 11
 ### "Open Source Studio" Triage and Discussion
