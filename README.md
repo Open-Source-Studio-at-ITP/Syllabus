@@ -69,8 +69,10 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [Processing and FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c) by Casey Reas
   * [THE TYRANNY of STRUCTURELESSNESS](https://www.jofreeman.com/joreen/tyranny.htm) by Jo Freeman aka Joreen 
   * [Silicon Valley Thinks Politics Doesn’t Exist](https://032c.com/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
-### Reading
-  * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one.
+  * Blog post reflections:
+    * Name: [Post Title](https://posturl.com)
+### Assignment (Due Sept 25)
+  * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. (More to come about this)
 
 ## Week 3: Code of Conduct / Community, Sept 18
 ### Guest Speaker
