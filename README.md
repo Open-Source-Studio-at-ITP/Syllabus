@@ -7,7 +7,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
    * Complete a short technical exercise.
    * Complete the readings.
    * Write a reflection on the exercise and readings in the form of a blog post (or equivalent).
-* In addition to the weekly assignments, all students will be required (in small groups) to present [a "case study" evaluation](https://github.com/shiffman/Open-Source-Studio-ITP/blob/master/CaseStudy.md) of an open source project.
+* In addition to the weekly assignments, all students will be required (in small groups) to present [a "case study" evaluation](https://github.com/Open-Source-Studio-at-ITP/Case-Studies) of an open source project.
 * Weeks 7-8, you will be expected to create a project proposal in the form of a blog post (or equivalent). This should include:
    * Summary of project idea.
    * Bios of contributors.
