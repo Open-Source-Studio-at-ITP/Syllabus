@@ -65,12 +65,12 @@ You can choose the files you want to add or just use `.` to add all of your chan
 
 For a specific file:
 ```
-git add /path/to/files/file.txt
+git add path/to/files/file.json
 ```
 
 For a specific directory:
 ```
-git add /path/to/files/ 
+git add path/to/files/ 
 ```
 
 For all files:
