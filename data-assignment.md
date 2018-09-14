@@ -30,7 +30,7 @@ You can find [more details at GitHub help](https://help.github.com/articles/sett
 
 ## Fork Repo
 
-You have two options here. You can fork [Corpora repo directly](https://github.com/dariusk/corpora) or the ["Open Source Studio" fork of Corpora](https://github.com/Open-Source-Studio-at-ITP/corpora). The latter options allows you to experiment with making a pull request that flows through our class before heading "upstream" to Corpora itself. [Instructions for how to fork are on the GitHub guide](https://guides.github.com/activities/forking/).
+You have two options here. You can fork [Corpora repo directly](https://github.com/dariusk/corpora) or the ["Open Source Studio" fork of Corpora](https://github.com/Open-Source-Studio-at-ITP/corpora). The latter option allows you to experiment with making a pull request that flows through our class before heading "upstream" to Corpora itself. [Instructions for how to fork are on the GitHub guide](https://guides.github.com/activities/forking/).
 
 ![Fork Button on Github](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
