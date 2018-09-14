@@ -59,7 +59,9 @@ Now you can open the "corpora" project in any text editor, add a new file, edit 
 
 Now it's time to "add" and "commit" the work you've done. [This video tutorial has some more details about `git add` and `git commit`](https://youtu.be/9p2d-CuVlgc?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV).
 
-1. Use  `git add` to stage your changes. You can choose the files you want to add or just use `.` to add all of your changes.
+###  `git add` to stage your changes. 
+
+You can choose the files you want to add or just use `.` to add all of your changes.
 
 For a specific file:
 ```
@@ -76,13 +78,15 @@ For all files:
 git add . 
 ```
 
-2. Use `git commit` to commit your changes. For small / trivial fixes, you can use the `-m` argument to add a message.
+###  `git commit` to commit your changes.
+
+For small / trivial fixes, you can use the `-m` argument to add a message.
 
 ```
 git commit -m "message about this commit"
 ```
 
-You can also type `git commit` only and it will launch you into a text editor to write a more detailed message.
+It's good practice, however, to use `git commit` only and launch a text editor for writing a more detailed message.
 
 ```
 git commit
@@ -94,15 +98,15 @@ git commit
 git config --global core.editor "code --wait"
 ```
 
-3. Push your code to your fork.
+### Push your code to GitHub.
 
-Now that you've finished your work, you can push the code to your fork of Corpora. 
+Now that you've finished your work, you can push the code to your fork of Corpora. One way to do this is:
 
 ```
 git push origin master
 ```
 
-While the above is adequate I sometimes prefer to push it to a new branch of GitHub with a name related to my changes.
+While the above is adequate I sometimes prefer to push it to a new branch on GitHub with a name related to my changes.
 
 ```
 git push origin master:name-of-my-branch
