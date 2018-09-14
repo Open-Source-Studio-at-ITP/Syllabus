@@ -42,7 +42,7 @@ You have two options here. You can fork [Corpora repo directly](https://github.c
 git clone https://github.com/yourgithubname/corpora.git
 ```
 
-[This video has more details about cloing a repo](https://youtu.be/yXT1ElMEkW8?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV).
+[This video has more details about cloning a repo](https://youtu.be/yXT1ElMEkW8?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV).
 
 2. `cd` (change directory) into the repo.
 
