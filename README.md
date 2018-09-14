@@ -72,7 +72,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Blog post reflections:
     * Name: [Post Title](https://posturl.com)
 ### Assignment (Due Sept 25)
-  * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. (More to come about this)
+  * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md). 
 
 ## Week 3: Code of Conduct / Community, Sept 18
 ### Guest Speaker
