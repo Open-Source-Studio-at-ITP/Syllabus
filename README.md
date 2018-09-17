@@ -7,7 +7,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
    * Complete a short technical exercise.
    * Complete the readings.
    * Write a reflection on the exercise and readings in the form of a blog post (or equivalent).
-* In addition to the weekly assignments, all students will be required (in small groups) to present [a "case study" evaluation](https://github.com/shiffman/Open-Source-Studio-ITP/blob/master/CaseStudy.md) of an open source project.
+* In addition to the weekly assignments, all students will be required (in small groups) to present [a "case study" evaluation](https://github.com/Open-Source-Studio-at-ITP/Case-Studies) of an open source project.
 * Weeks 7-8, you will be expected to create a project proposal in the form of a blog post (or equivalent). This should include:
    * Summary of project idea.
    * Bios of contributors.
@@ -38,27 +38,41 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Comment on at least one other issue / pull request.
   * Write some reflections on what open source means to you. Have you participated in an open source project before? What was your experience like? If not, why not? Respond to any of the readings above. You can write this as a blog post or medium post (be mindful of including image captions for accessibility). Pull request a link to your post below:
     * Jinzhong Yu: [What Open Soure Means to Me](https://yuuno.cc/articles/what-open-source-means-to-me)
+    * Emma Rae Norton: [What does open source mean to me?](https://spaghettimeatballsbecomereallyfrightening.online/oss/what-does-open-source-mean-to-me/)
+    * Nicolás Escarpentier: [The cat-flap of open source](http://itp.nicolaspe.com/2018/09/the-cat-flap-of-open-source/)
+    * Wenhe Li: [Open Source, Github and Myself](https://medium.com/@wenhe.li98/open-source-github-and-i-3b7e6fa2c73a)
+    * Luna Olavarría Gallegos: [What is Open Source](https://wp.nyu.edu/luna/2018/09/10/assignment-1-what-is-open-source/)
     * Vince Shao: [The Familiar Yet Distant Open Source Community](https://wp.nyu.edu/vinceshao/2018/09/10/the-familiar-yet-distant-open-source-community/)
-    * Name: [title of post](url to post)
+    * Alice Sun: [Introducing Yourself to Unfamiliar Open Source Projects](http://www.alicehgsun.com/introducing-yourself-to-open-source)
+    * Jiwon Shin: [Open Source - What's so "open" about it?](https://js6450.github.io/OpenSourceStudio/weekly/1.html)
+    * Chuyi Zhang: [What I Missed about Open Source](https://medium.com/@romolazhang/what-i-missed-about-open-source-3379bbd0e224)
+    * Camille Weins: [My Thoughts on Open Source](https://medium.com/@camilleweins/my-thoughts-on-open-source-cbb53d2d5907)
+    * James Hosken: [The Three Tenets of Open Source](https://generallyplayful.com/itp/oss/the-three-tenets-of-open-source/)
+    * Ahmad Arshad: [My open source experience](https://dev1.ed-projects.nyu.edu/geotools/2018/09/11/ossp-week-1-reflections/)
 
 ## Week 2: More Version Control and Project Management, Sept 11
-### More Git and GitHub
-* Branches and Forks
-* Using the command line
-* Merge conflicts!
+### "Open Source Studio" Triage and Discussion
+* GitHub Organization
+  * People / Teams
 * Project Management
   * issues, labels
   * milestones
   * projects
   * wiki
+### More Git and GitHub
+* Branches and Forks
+* Using the command line
+* Merge conflicts!
 ### Reading
   * [The Art of Humanizing Pull Requests](https://dev.to/kulkarniankita9/the-art-of-humanizing-pull-requests-prs-2238) by Ankita Kulkarni
   * [Worms, Butterflies and Dandelions. Open source tools for the arts](https://medium.com/@tchoi8/worms-butterflies-and-dandelions-open-source-tools-for-the-arts-9b4dcd76a1f2) by Taeyoon Choi
   * [Processing and FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c) by Casey Reas
   * [THE TYRANNY of STRUCTURELESSNESS](https://www.jofreeman.com/joreen/tyranny.htm) by Jo Freeman aka Joreen 
   * [Silicon Valley Thinks Politics Doesn’t Exist](https://032c.com/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
-### Reading
-  * Create an open source dataset and contribute to an existing repository (like Corpora) or create a new one.
+  * Blog post reflections:
+    * Name: [Post Title](https://posturl.com)
+### Assignment (Due Sept 25)
+  * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md). 
 
 ## Week 3: Code of Conduct / Community, Sept 18
 ### Guest Speaker
@@ -104,6 +118,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Open Source Software Licenses
   * [Choose a License](https://choosealicense.com/)
   * [Aaron Swartz's License Haikus](http://www.aaronsw.com/weblog/000360)
+  * [Part 1 of What Does Open Source Even Mean](https://medium.com/@kenjagan/part-i-what-does-open-source-even-mean-4e2829dfd557) by Jen Kagan
 ### Funding
   * [What’s Your Open Source Strategy? Here Are 10 Answers…](https://blog.mozilla.org/blog/2018/05/15/whats-your-open-source-strategy-here-are-10-answers/) a research report from Mozilla and Open Tech by Patrick Finch
   * [Funding Open Source the Hard Way](https://youtu.be/HokXBjDS_UA) from Nadia Eghbal, [slides of talk](https://www.slideshare.net/NadiaEghbal/funding-open-source-the-hard-way)
