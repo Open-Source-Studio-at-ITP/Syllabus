@@ -71,7 +71,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [Silicon Valley Thinks Politics Doesn’t Exist](https://032c.com/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
   * Blog post reflections:
     * Name: [Post Title](https://posturl.com)
-    * Vince Shao [Balanced Ecology](http://wp.nyu.edu/vinceshao/2018/09/17/balanced-ecology/)
+    * Vince Shao: [Balanced Ecology](http://wp.nyu.edu/vinceshao/2018/09/17/balanced-ecology/)
 ### Assignment (Due Sept 25)
   * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md). 
 
