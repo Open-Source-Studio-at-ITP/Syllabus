@@ -70,6 +70,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [THE TYRANNY of STRUCTURELESSNESS](https://www.jofreeman.com/joreen/tyranny.htm) by Jo Freeman aka Joreen 
   * [Silicon Valley Thinks Politics Doesn’t Exist](https://032c.com/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
   * Blog post reflections:
+    * Jinzhong Yu: [Why would people engage in Open Source](https://yuuno.cc/articles/why-would-people-engage-in-os)
     * Name: [Post Title](https://posturl.com)
 ### Assignment (Due Sept 25)
   * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md). 
