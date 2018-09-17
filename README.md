@@ -71,8 +71,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [Silicon Valley Thinks Politics Doesn’t Exist](https://032c.com/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
   * Blog post reflections:
     * Jinzhong Yu: [Why would people engage in Open Source](https://yuuno.cc/articles/why-would-people-engage-in-os)
-    * Name: [Post Title](https://posturl.com)
     * Vince Shao: [Balanced Ecology](http://wp.nyu.edu/vinceshao/2018/09/17/balanced-ecology/)
+    * Jiwon Shin: [The Moral Values of a Hammer](https://js6450.github.io/OpenSourceStudio/weekly/2.html)
 ### Assignment (Due Sept 25)
   * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md). 
 
