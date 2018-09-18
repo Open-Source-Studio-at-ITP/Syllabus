@@ -50,6 +50,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * James Hosken: [The Three Tenets of Open Source](https://generallyplayful.com/itp/oss/the-three-tenets-of-open-source/)
     * Ahmad Arshad: [My open source experience](https://dev1.ed-projects.nyu.edu/geotools/2018/09/11/ossp-week-1-reflections/)
     * Lin Zhang: [Contempt in Developer Culture](https://linzhangcs.github.io/blog/2018/09/17/importanceofculture/)
+    
 ## Week 2: More Version Control and Project Management, Sept 11
 ### "Open Source Studio" Triage and Discussion
 * GitHub Organization
@@ -73,8 +74,10 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Jinzhong Yu: [Why would people engage in Open Source](https://yuuno.cc/articles/why-would-people-engage-in-os)
     * Vince Shao: [Balanced Ecology](http://wp.nyu.edu/vinceshao/2018/09/17/balanced-ecology/)
     * Jiwon Shin: [The Moral Values of a Hammer](https://js6450.github.io/OpenSourceStudio/weekly/2.html)
+    * James Hosken: [Open Source Responsibility](https://generallyplayful.com/itp/oss/open-source-responsibility/)
     * Nicolás Escarpentier: [Are we humans or are we coders?](http://itp.nicolaspe.com/2018/09/are-we-humans-or-are-we-coders/)
     * Wenhe Li: [Values of Floss](https://medium.com/@wenhe.li98/values-of-floss-6667ef356496)
+
 ### Assignment (Due Sept 25)
   * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md).
 
