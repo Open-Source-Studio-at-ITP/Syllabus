@@ -77,6 +77,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * James Hosken: [Open Source Responsibility](https://generallyplayful.com/itp/oss/open-source-responsibility/)
     * Nicolás Escarpentier: [Are we humans or are we coders?](http://itp.nicolaspe.com/2018/09/are-we-humans-or-are-we-coders/)
     * Wenhe Li: [Values of Floss](https://medium.com/@wenhe.li98/values-of-floss-6667ef356496)
+    * Ahmad Arshad: [FLOSS Everything](https://dev1.ed-projects.nyu.edu/geotools/2018/09/18/ossp-week-2-reflections/)
 
 ### Assignment (Due Sept 25)
   * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md).
