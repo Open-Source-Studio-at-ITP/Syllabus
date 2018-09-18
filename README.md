@@ -49,7 +49,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Camille Weins: [My Thoughts on Open Source](https://medium.com/@camilleweins/my-thoughts-on-open-source-cbb53d2d5907)
     * James Hosken: [The Three Tenets of Open Source](https://generallyplayful.com/itp/oss/the-three-tenets-of-open-source/)
     * Ahmad Arshad: [My open source experience](https://dev1.ed-projects.nyu.edu/geotools/2018/09/11/ossp-week-1-reflections/)
-
+    * Lin Zhang: [Contempt in Developer Culture](https://linzhangcs.github.io/blog/2018/09/17/importanceofculture/)
 ## Week 2: More Version Control and Project Management, Sept 11
 ### "Open Source Studio" Triage and Discussion
 * GitHub Organization
@@ -67,7 +67,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [The Art of Humanizing Pull Requests](https://dev.to/kulkarniankita9/the-art-of-humanizing-pull-requests-prs-2238) by Ankita Kulkarni
   * [Worms, Butterflies and Dandelions. Open source tools for the arts](https://medium.com/@tchoi8/worms-butterflies-and-dandelions-open-source-tools-for-the-arts-9b4dcd76a1f2) by Taeyoon Choi
   * [Processing and FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c) by Casey Reas
-  * [THE TYRANNY of STRUCTURELESSNESS](https://www.jofreeman.com/joreen/tyranny.htm) by Jo Freeman aka Joreen 
+  * [THE TYRANNY of STRUCTURELESSNESS](https://www.jofreeman.com/joreen/tyranny.htm) by Jo Freeman aka Joreen
   * [Silicon Valley Thinks Politics Doesn’t Exist](https://032c.com/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
   * Blog post reflections:
     * Jinzhong Yu: [Why would people engage in Open Source](https://yuuno.cc/articles/why-would-people-engage-in-os)
@@ -76,7 +76,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Nicolás Escarpentier: [Are we humans or are we coders?](http://itp.nicolaspe.com/2018/09/are-we-humans-or-are-we-coders/)
     * Wenhe Li: [Values of Floss](https://medium.com/@wenhe.li98/values-of-floss-6667ef356496)
 ### Assignment (Due Sept 25)
-  * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md). 
+  * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md).
 
 ## Week 3: Code of Conduct / Community, Sept 18
 ### Guest Speaker
@@ -98,7 +98,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * [dev.to](https://dev.to/)
 ### Unit Testing basics
 ### CircleCI and Travis
-### Assignment: 
+### Assignment:
   * Add a unit test to our class project.
   * If you are feeling ambitious, set up your own repo with continuous integration.
 
@@ -162,7 +162,7 @@ In addition to completing a final project for the course and presenting it in cl
    * How did you get feedback as you worked on your project?
    * Do you plan to continue to work on this open source project?
    * How do you feel about contributing to open source in the future?
-   
+
 # Policies
 
 ## Evaluation
@@ -201,4 +201,3 @@ Your health and safety are a priority at NYU. If you experience any health or me
 ## Statement on use of Electronic Devices
 
 Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations.  Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
-
