@@ -74,6 +74,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Vince Shao: [Balanced Ecology](http://wp.nyu.edu/vinceshao/2018/09/17/balanced-ecology/)
     * Jiwon Shin: [The Moral Values of a Hammer](https://js6450.github.io/OpenSourceStudio/weekly/2.html)
     * Nicolás Escarpentier: [Are we humans or are we coders?](http://itp.nicolaspe.com/2018/09/are-we-humans-or-are-we-coders/)
+    * Wenhe Li: [Values of Floss](https://medium.com/@wenhe.li98/values-of-floss-6667ef356496)
 ### Assignment (Due Sept 25)
   * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md). 
 
