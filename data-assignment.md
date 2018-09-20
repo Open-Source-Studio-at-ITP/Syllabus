@@ -11,6 +11,7 @@
 ## Link to your pull request (or repo) below:
 
 * name -- [title of pull request](url)
+* emma rae -- [Add list of fictional colors](https://github.com/dariusk/corpora/pull/325)
 
 # Instructions for Corpora Contribution
 
