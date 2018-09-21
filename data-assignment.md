@@ -17,6 +17,9 @@
 
 Note that this assignment can be completed any number of ways. The instructions below are for submitting a pull request using git and the command line. You are also welcome to the GitHub web interface or any other tool that you want to experiment with.
 
+In addition to the instructions below, you might also find this egghead course useful background: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) 
+
+
 ## Install Git
 
 1. Download and install [git](https://git-scm.com/).
