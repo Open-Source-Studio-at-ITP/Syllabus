@@ -123,9 +123,6 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Accessibility
 * [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [Working on the p5 Accessibility Project](https://medium.com/processing-foundation/working-on-the-p5-accessibility-project-58a781575400) by Mathura Govindarajan and Luis Morales-Navarro
-### Documentation
-* `CONTRIBUTING.MD`
-* Issue templates
 ### Assignment
   * Contribute documentation to our class project. Test for accessibility.
 
@@ -138,6 +135,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [Choose a License](https://choosealicense.com/)
   * [Aaron Swartz's License Haikus](http://www.aaronsw.com/weblog/000360)
   * [Part 1 of What Does Open Source Even Mean](https://medium.com/@kenjagan/part-i-what-does-open-source-even-mean-4e2829dfd557) by Jen Kagan
+  * [Facebook Contributor License Agreement](https://code.facebook.com/cla/individual)
 ### Funding
   * [What’s Your Open Source Strategy? Here Are 10 Answers…](https://blog.mozilla.org/blog/2018/05/15/whats-your-open-source-strategy-here-are-10-answers/) a research report from Mozilla and Open Tech by Patrick Finch
   * [Funding Open Source the Hard Way](https://youtu.be/HokXBjDS_UA) from Nadia Eghbal, [slides of talk](https://www.slideshare.net/NadiaEghbal/funding-open-source-the-hard-way)
