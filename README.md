@@ -92,21 +92,30 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [p5.js Code of Conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)
   * [Progressive Hack Night](http://www.progressivehacknight.org/culture/2017/07/01/code-of-conduct.html)
 ### Reading
+  * [After Years of Abusive E-mails, the Creator of Linux Steps Aside](https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside) by Noam Cohen, The New Yorker 
   * [How We’re Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) by Emma Irwin
   * [A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e) by Emma Irwin
   * [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
   * [Open Source Guide: Building Community](https://opensource.guide/building-community/)
 #### Assignment
-  * Contribute to our class Code of Conduct.
+  * Complete the open source dataset assignment. [Full Instructions](data-assignment.md)
+  * Write a short post about the readings above. What is the value of a Code of Conduct? What strategies and techniques 
 
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
 * [dev.to](https://dev.to/)
-### Unit Testing basics
-### CircleCI and Travis
+### Unit Testing with Jest
+* [Introduction to Unit Testing and Continuous Integration](https://youtu.be/CB7vnoXI0pE?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
+* [Unit Testing with Jest](https://youtu.be/S3QwafQEvSs?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
+### Unit Testing with Mocha and Chai
+* [Setting up Unit Testing with Mocha and Chai](https://egghead.io/lessons/javascript-setting-up-unit-testing-with-mocha-and-chai)
+* [Unit Testing with Mocha and Chai](https://egghead.io/lessons/javascript-unit-testing-with-mocha-and-chai)
+### Continuous Integration
+* CircleCI: [Continuous Integration with GitHub](https://youtu.be/0OjEx2UzLUI?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
+* TravisCI: [Automatically running tests before commits with ghooks](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automatically-running-tests-before-commits-with-ghooks) 
 ### Assignment:
-  * Add a unit test to our class project.
-  * If you are feeling ambitious, set up your own repo with continuous integration.
+* Add a unit test to the Playground (instructions coming soon).
+* If you are feeling ambitious, set up your own repo with continuous integration.
 
 ## Week 5: Documentation and Accessibility, Oct 2
 ### Guest Speaker
