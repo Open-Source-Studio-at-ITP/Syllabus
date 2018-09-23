@@ -92,21 +92,31 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [p5.js Code of Conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)
   * [Progressive Hack Night](http://www.progressivehacknight.org/culture/2017/07/01/code-of-conduct.html)
 ### Reading
-  * [How We’re Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) by Emma Irwin
-  * [A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e) by Emma Irwin
-  * [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
-  * [Open Source Guide: Building Community](https://opensource.guide/building-community/)
+* [After Years of Abusive E-mails, the Creator of Linux Steps Aside](https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside) by Noam Cohen, The New Yorker 
+* [How We’re Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) by Emma Irwin
+* [A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e) by Emma Irwin
+* [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
+* [Open Source Guide: Building Community](https://opensource.guide/building-community/)
 #### Assignment
-  * Contribute to our class Code of Conduct.
+* Complete the open source dataset assignment. [Full Instructions](data-assignment.md)
+* Write a short post about the readings above and pull request a link to your post below.
+  * Name: [Title of Post](url)    
 
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
 * [dev.to](https://dev.to/)
-### Unit Testing basics
-### CircleCI and Travis
+### Unit Testing with Jest
+* [Introduction to Unit Testing and Continuous Integration](https://youtu.be/CB7vnoXI0pE?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
+* [Unit Testing with Jest](https://youtu.be/S3QwafQEvSs?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
+### Unit Testing with Mocha and Chai
+* [Setting up Unit Testing with Mocha and Chai](https://egghead.io/lessons/javascript-setting-up-unit-testing-with-mocha-and-chai)
+* [Unit Testing with Mocha and Chai](https://egghead.io/lessons/javascript-unit-testing-with-mocha-and-chai)
+### Continuous Integration
+* CircleCI: [Continuous Integration with GitHub](https://youtu.be/0OjEx2UzLUI?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
+* TravisCI: [Automatically running tests before commits with ghooks](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automatically-running-tests-before-commits-with-ghooks) 
 ### Assignment:
-  * Add a unit test to our class project.
-  * If you are feeling ambitious, set up your own repo with continuous integration.
+* Add a unit test to the Playground (instructions coming soon).
+* If you are feeling ambitious, set up your own repo with continuous integration.
 
 ## Week 5: Documentation and Accessibility, Oct 2
 ### Guest Speaker
@@ -114,9 +124,6 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Accessibility
 * [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [Working on the p5 Accessibility Project](https://medium.com/processing-foundation/working-on-the-p5-accessibility-project-58a781575400) by Mathura Govindarajan and Luis Morales-Navarro
-### Documentation
-* `CONTRIBUTING.MD`
-* Issue templates
 ### Assignment
   * Contribute documentation to our class project. Test for accessibility.
 
@@ -129,6 +136,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [Choose a License](https://choosealicense.com/)
   * [Aaron Swartz's License Haikus](http://www.aaronsw.com/weblog/000360)
   * [Part 1 of What Does Open Source Even Mean](https://medium.com/@kenjagan/part-i-what-does-open-source-even-mean-4e2829dfd557) by Jen Kagan
+  * [Facebook Contributor License Agreement](https://code.facebook.com/cla/individual)
 ### Funding
   * [What’s Your Open Source Strategy? Here Are 10 Answers…](https://blog.mozilla.org/blog/2018/05/15/whats-your-open-source-strategy-here-are-10-answers/) a research report from Mozilla and Open Tech by Patrick Finch
   * [Funding Open Source the Hard Way](https://youtu.be/HokXBjDS_UA) from Nadia Eghbal, [slides of talk](https://www.slideshare.net/NadiaEghbal/funding-open-source-the-hard-way)
