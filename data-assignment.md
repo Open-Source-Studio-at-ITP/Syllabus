@@ -14,6 +14,7 @@
 * emma rae -- [Add list of fictional colors](https://github.com/dariusk/corpora/pull/325)
 * jinzhong yu -- [Add list of country calling codes](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/3)
 * alice -- [adding and updating fictional religions](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/4)
+* Wenhe Li -- [add description && add Persona file into game](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/5)
 
 # Instructions for Corpora Contribution
 
