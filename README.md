@@ -82,7 +82,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Guillermo Montecinos: [Open source community and its role in an apolitical era](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_2/assignment.md)
 
 ### Assignment (Due Sept 25)
-  * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md).
+  * Create an open source dataset and contribute to an existing repository (like our [Corpora "sandbox"](https://github.com/Open-Source-Studio-at-ITP/corpora) or [Corpora](https://github.com/dariusk/corpora) directly!) or create a new one. [Full Instructions](data-assignment.md).
 
 ## Week 3: Code of Conduct / Community, Sept 18
 ### Guest Speaker
