@@ -50,7 +50,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * James Hosken: [The Three Tenets of Open Source](https://generallyplayful.com/itp/oss/the-three-tenets-of-open-source/)
     * Ahmad Arshad: [My open source experience](https://dev1.ed-projects.nyu.edu/geotools/2018/09/11/ossp-week-1-reflections/)
     * Lin Zhang: [Contempt in Developer Culture](https://linzhangcs.github.io/blog/2018/09/17/importanceofculture/)
-    
+
 ## Week 2: More Version Control and Project Management, Sept 11
 ### "Open Source Studio" Triage and Discussion
 * GitHub Organization
@@ -92,7 +92,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [p5.js Code of Conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)
   * [Progressive Hack Night](http://www.progressivehacknight.org/culture/2017/07/01/code-of-conduct.html)
 ### Reading
-* [After Years of Abusive E-mails, the Creator of Linux Steps Aside](https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside) by Noam Cohen, The New Yorker 
+* [After Years of Abusive E-mails, the Creator of Linux Steps Aside](https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside) by Noam Cohen, The New Yorker
 * [How We’re Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) by Emma Irwin
 * [A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e) by Emma Irwin
 * [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
@@ -100,6 +100,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 #### Assignment
 * Complete the open source dataset assignment. [Full Instructions](data-assignment.md)
 * Write a short post about the readings above and pull request a link to your post below.
+  * Guillermo Montecinos: [Assignment week 3](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_3/assignment.md)
   * Name: [Title of Post](url)    
 
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
@@ -113,7 +114,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * [Unit Testing with Mocha and Chai](https://egghead.io/lessons/javascript-unit-testing-with-mocha-and-chai)
 ### Continuous Integration
 * CircleCI: [Continuous Integration with GitHub](https://youtu.be/0OjEx2UzLUI?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
-* TravisCI: [Automatically running tests before commits with ghooks](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automatically-running-tests-before-commits-with-ghooks) 
+* TravisCI: [Automatically running tests before commits with ghooks](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automatically-running-tests-before-commits-with-ghooks)
 ### Assignment:
 * Add a unit test to the Playground (instructions coming soon).
 * If you are feeling ambitious, set up your own repo with continuous integration.
