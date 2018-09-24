@@ -100,7 +100,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 #### Assignment
 * Complete the open source dataset assignment. [Full Instructions](data-assignment.md)
 * Write a short post about the readings above and pull request a link to your post below.
-  * Guillermo Montecinos: [Assignment week 3](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_3/assignment.md)
+  * Guillermo Montecinos: [Rules clear for healthy relationships and the shadow of the past](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_3/assignment.md)
   * Name: [Title of Post](url)    
 
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
