@@ -15,6 +15,7 @@
 * jinzhong yu -- [Add list of country calling codes](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/3)
 * alice -- [adding and updating fictional religions](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/4)
 * Wenhe Li -- [add description && add Persona file into game](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/5)
+* Luna -- [Puerto Rican Debt](https://wp.nyu.edu/luna/2018/09/16/github-corpora-excercise/)
 
 # Instructions for Corpora Contribution
 
