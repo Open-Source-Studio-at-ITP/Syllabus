@@ -104,6 +104,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Wenhe Li: [Community needs Code of Conduct](https://medium.com/@wenhe.li98/community-needs-code-of-conduct-e5f9552a1774)
   * Vince MingPu Shao: [Inclusive and healthy environment](https://wp.nyu.edu/vinceshao/2018/09/24/oss-inclusive-healthy-working-environment/)
   * emma rae norton: [Reflection: EthicalCS, Open Source as structure](https://spaghettimeatballsbecomereallyfrightening.online/oss/reflection-ethicalcs-open-source-as-structure/)
+  * Camille Weins: [READMEs and Ethics](https://medium.com/@camilleweins/readmes-and-ethics-cbae8e77ffcd)
 
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
