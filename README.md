@@ -110,7 +110,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Jinzhong: [Do we need to clean the environment of Open Source Community](https://yuuno.cc/articles/do-we-need-to-clean-oss-env)
   * emma rae norton: [Reflection: EthicalCS, Open Source as structure](https://spaghettimeatballsbecomereallyfrightening.online/oss/reflection-ethicalcs-open-source-as-structure/)
   * Camille Weins: [READMEs and Ethics](https://medium.com/@camilleweins/readmes-and-ethics-cbae8e77ffcd)
-
+  * Ahmad Arshad: [Social awareness in OSS] (https://dev1.ed-projects.nyu.edu/geotools/2018/09/25/ossp-week-3-reflections/)
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
 * [dev.to](https://dev.to/)
