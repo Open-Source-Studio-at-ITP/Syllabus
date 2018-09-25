@@ -19,12 +19,13 @@
 * Jiwon -- [Skeleton & Point Clode Data for Kinect V2](https://github.com/js6450/kinect-data)
 * Camille -- [add list of medical Latin combining terms](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/10)
 * Vince Shao -- [AGI Designers List](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/11)
+* Lin Zhang -- [Feelings about coding](https://github.com/linzhangcs/feelingsaboutcoding)
 
 # Instructions for Corpora Contribution
 
 Note that this assignment can be completed any number of ways. The instructions below are for submitting a pull request using git and the command line. You are also welcome to the GitHub web interface or any other tool that you want to experiment with.
 
-In addition to the instructions below, you might also find this egghead course useful background: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) 
+In addition to the instructions below, you might also find this egghead course useful background: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 
 ## Install Git
@@ -33,7 +34,7 @@ In addition to the instructions below, you might also find this egghead course u
 2. Open your shell (see [shell workflow video](https://youtu.be/FnkkzgYuXUM?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X)). Configure your git username using the following commands
 
 ```
-git config --global user.name "Your Name" 
+git config --global user.name "Your Name"
 git config --global user.email "email@example.com"
 ```
 
@@ -70,7 +71,7 @@ Now you can open the "corpora" project in any text editor, add a new file, edit 
 
 Now it's time to "add" and "commit" the work you've done. [This video tutorial has some more details about `git add` and `git commit`](https://youtu.be/9p2d-CuVlgc?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV).
 
-###  `git add` to stage your changes. 
+###  `git add` to stage your changes.
 
 You can choose the files you want to add or just use `.` to add all of your changes.
 
@@ -81,12 +82,12 @@ git add path/to/files/file.json
 
 For a specific directory:
 ```
-git add path/to/files/ 
+git add path/to/files/
 ```
 
 For all files:
 ```
-git add . 
+git add .
 ```
 
 ###  `git commit` to commit your changes.
