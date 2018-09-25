@@ -16,6 +16,7 @@
 * alice -- [adding and updating fictional religions](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/4)
 * Wenhe Li -- [add description && add Persona file into game](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/5)
 * Luna -- [Puerto Rican Debt](https://wp.nyu.edu/luna/2018/09/16/github-corpora-excercise/)
+* Vince Shao -- [AGI Designers List](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/11)
 
 # Instructions for Corpora Contribution
 
