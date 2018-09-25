@@ -101,6 +101,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Complete the open source dataset assignment. [Full Instructions](data-assignment.md)
 * Write a short post about the readings above and pull request a link to your post below.
   * Name: [Title of Post](url)    
+  * Jinzhong: [Do we need to clean the environment of Open Source Community](https://yuuno.cc/articles/do-we-need-to-clean-oss-env)
 
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
