@@ -16,6 +16,8 @@
 * alice -- [adding and updating fictional religions](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/4)
 * Wenhe Li -- [add description && add Persona file into game](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/5)
 * Luna -- [Puerto Rican Debt](https://wp.nyu.edu/luna/2018/09/16/github-corpora-excercise/)
+* Jiwon -- [Skeleton & Point Clode Data for Kinect V2](https://github.com/js6450/kinect-data)
+* Camille -- [add list of medical Latin combining terms](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/10)
 * Vince Shao -- [AGI Designers List](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/11)
 
 # Instructions for Corpora Contribution
