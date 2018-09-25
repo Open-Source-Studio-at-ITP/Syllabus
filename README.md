@@ -103,6 +103,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Guillermo Montecinos: [Rules clear for healthy relationships and the shadow of the past](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_3/assignment.md)
   * Wenhe Li: [Community needs Code of Conduct](https://medium.com/@wenhe.li98/community-needs-code-of-conduct-e5f9552a1774)
   * Vince MingPu Shao: [Inclusive and healthy environment](https://wp.nyu.edu/vinceshao/2018/09/24/oss-inclusive-healthy-working-environment/)
+  * Nicolás Escarpentier: [Education and building foundations for building a castle](http://itp.nicolaspe.com/2018/09/education-and-building-foundations-for-building-a-castle/)
 
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
