@@ -50,6 +50,9 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * James Hosken: [The Three Tenets of Open Source](https://generallyplayful.com/itp/oss/the-three-tenets-of-open-source/)
     * Ahmad Arshad: [My open source experience](https://dev1.ed-projects.nyu.edu/geotools/2018/09/11/ossp-week-1-reflections/)
     * Lin Zhang: [Contempt in Developer Culture](https://linzhangcs.github.io/blog/2018/09/17/importanceofculture/)
+    
+    Submissions by outside collaborators:
+    * Alfie Chen: [Stepping Into an Open World](https://alfieyfc.github.io/2018/09/25/stepping_into_an_open_world/)
 
 ## Week 2: More Version Control and Project Management, Sept 11
 ### "Open Source Studio" Triage and Discussion
