@@ -20,6 +20,7 @@
 * Camille -- [add list of medical Latin combining terms](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/10)
 * Vince Shao -- [AGI Designers List](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/11)
 * Lin Zhang -- [Feelings about coding](https://github.com/linzhangcs/feelingsaboutcoding)
+* Amitabh Shrivastava -- [Added to carbon allotropes](https://github.com/dariusk/corpora/pull/328)
 
 # Instructions for Corpora Contribution
 
