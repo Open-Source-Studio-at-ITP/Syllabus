@@ -124,11 +124,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * CircleCI: [Continuous Integration with GitHub](https://youtu.be/0OjEx2UzLUI?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
 * TravisCI: [Automatically running tests before commits with ghooks](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automatically-running-tests-before-commits-with-ghooks)
 ### Assignment (Due Oct 2)
-* Try breaking, fixing, and/or writing a unit test. Can you run the tests locally? Via cotinuous integration? [Full Instructions](testing-ci-assignment.md).
-
-### Assignment:
-* Add a unit test to the Playground (instructions coming soon).
-* If you are feeling ambitious, set up your own repo with continuous integration.
+* Try breaking, fixing, and/or writing a unit test. Can you run the tests locally? Via continuous integration? [Full Instructions](testing-ci-assignment.md).
 
 ## Week 5: Documentation and Accessibility, Oct 2
 ### Guest Speaker
