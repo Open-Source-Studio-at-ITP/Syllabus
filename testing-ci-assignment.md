@@ -3,6 +3,7 @@
 **due Tuesday, October 2**
 
 ## Link to your pull request, repository, or write-up below:
+* Jinzhong: [A Testing Function to ensure links in \*.md are accessible](https://github.com/NHibiki-NYU/UnitTestingCI/pull/1)
 * Name: [title](url)
 
 # Instructions
