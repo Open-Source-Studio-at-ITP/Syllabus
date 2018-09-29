@@ -15,7 +15,7 @@ Note that this assignment can be completed any number of ways. The idea is to ex
    * [Introduction to Unit Testing and Continuous Integration](https://youtu.be/CB7vnoXI0pE?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
    * [Unit Testing with Jest](https://youtu.be/S3QwafQEvSs?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
 2. Try one or more of the following:
-   * Submit a pull request to [UnitTestingCI](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI) that breaks one of the tests. Can you then edit the request with a fix so that the test passes?
+   * Submit a pull request to [UnitTestingCI](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI) that breaks one of the tests. Can you then edit the request with a fix so that the test passes? (Now, thanks to [#64](https://github.com/Open-Source-Studio-at-ITP/Syllabus/pull/64) as an alternative, you can also try breaking/fixing the tests here on this repo!)
    * Add a new test to [UnitTestingCI](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI). Does it pass? For reference, here is the [Jest testing documentation](https://jestjs.io/docs/en/api).
    * Fork the [UnitTestingCI](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI) and set up continous integration with CircleCI on your own account. This [video on how to set up CircleCI](https://youtu.be/0OjEx2UzLUI?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-) will help.
 
