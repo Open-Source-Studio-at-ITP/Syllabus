@@ -1,0 +1,16 @@
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
+#
+version: 2
+jobs:
+  build:
+    docker:
+      # specify the version you desire here
+      - image: circleci/node:8.9.0
+
+    steps:
+      - checkout
+      - run: echo "{}" > package.json
+      - run: npm install jest node-fetch
+      - run: npx jest

@@ -50,7 +50,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * James Hosken: [The Three Tenets of Open Source](https://generallyplayful.com/itp/oss/the-three-tenets-of-open-source/)
     * Ahmad Arshad: [My open source experience](https://dev1.ed-projects.nyu.edu/geotools/2018/09/11/ossp-week-1-reflections/)
     * Lin Zhang: [Contempt in Developer Culture](https://linzhangcs.github.io/blog/2018/09/17/importanceofculture/)
-    
+
 ## Week 2: More Version Control and Project Management, Sept 11
 ### "Open Source Studio" Triage and Discussion
 * GitHub Organization
@@ -77,9 +77,12 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * James Hosken: [Open Source Responsibility](https://generallyplayful.com/itp/oss/open-source-responsibility/)
     * Nicolás Escarpentier: [Are we humans or are we coders?](http://itp.nicolaspe.com/2018/09/are-we-humans-or-are-we-coders/)
     * Wenhe Li: [Values of Floss](https://medium.com/@wenhe.li98/values-of-floss-6667ef356496)
+    * Alice Sun: [Software Within the Ecology](http://www.alicehgsun.com/software-within-the-ecology)
+    * Ahmad Arshad: [FLOSS Everything](https://dev1.ed-projects.nyu.edu/geotools/2018/09/18/ossp-week-2-reflections/)
+    * Guillermo Montecinos: [Open source community and its role in an apolitical era](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_2/assignment.md)
 
 ### Assignment (Due Sept 25)
-  * Create an open source dataset and contribute to an existing repository (like our Corpora "sandbox" or Corpora directly!) or create a new one. [Full Instructions](data-assignment.md).
+  * Create an open source dataset and contribute to an existing repository (like our [Corpora "sandbox"](https://github.com/Open-Source-Studio-at-ITP/corpora) or [Corpora](https://github.com/dariusk/corpora) directly!) or create a new one. [Full Instructions](data-assignment.md).
 
 ## Week 3: Code of Conduct / Community, Sept 18
 ### Guest Speaker
@@ -89,21 +92,39 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [p5.js Code of Conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)
   * [Progressive Hack Night](http://www.progressivehacknight.org/culture/2017/07/01/code-of-conduct.html)
 ### Reading
-  * [How We’re Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) by Emma Irwin
-  * [A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e) by Emma Irwin
-  * [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
-  * [Open Source Guide: Building Community](https://opensource.guide/building-community/)
+* [After Years of Abusive E-mails, the Creator of Linux Steps Aside](https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside) by Noam Cohen, The New Yorker
+* [How We’re Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415) by Emma Irwin
+* [A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities](https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e) by Emma Irwin
+* [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
+* [Open Source Guide: Building Community](https://opensource.guide/building-community/)
 #### Assignment
-  * Contribute to our class Code of Conduct.
-
+* Complete the open source dataset assignment. [Full Instructions](data-assignment.md)
+* Write a short post about the readings above and pull request a link to your post below.
+  * Guillermo Montecinos: [Rules clear for healthy relationships and the shadow of the past](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_3/assignment.md)
+  * Wenhe Li: [Community needs Code of Conduct](https://medium.com/@wenhe.li98/community-needs-code-of-conduct-e5f9552a1774)
+  * Vince MingPu Shao: [Inclusive and healthy environment](https://wp.nyu.edu/vinceshao/2018/09/24/oss-inclusive-healthy-working-environment/)
+  * Alice Sun: [Wisdom of Crowds](http://www.alicehgsun.com/wisdom-of-crowds)
+  * Jiwon Shin: [Let's Learn to Accept](https://js6450.github.io/OpenSourceStudio/weekly/3.html)
+  * Lin Zhang: [Responsibility of Setting Culture Norm](https://linzhangcs.github.io/blog/2018/09/24/powerandsettingexpectations/)
+  * Nicolás Escarpentier: [Education and building foundations for building a castle](http://itp.nicolaspe.com/2018/09/education-and-building-foundations-for-building-a-castle/)
+  * Jinzhong: [Do we need to clean the environment of Open Source Community](https://yuuno.cc/articles/do-we-need-to-clean-oss-env)
+  * emma rae norton: [Reflection: EthicalCS, Open Source as structure](https://spaghettimeatballsbecomereallyfrightening.online/oss/reflection-ethicalcs-open-source-as-structure/)
+  * Camille Weins: [READMEs and Ethics](https://medium.com/@camilleweins/readmes-and-ethics-cbae8e77ffcd)
+  * Ahmad Arshad: [Social awareness in OSS] (https://dev1.ed-projects.nyu.edu/geotools/2018/09/25/ossp-week-3-reflections/)
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
 * [dev.to](https://dev.to/)
-### Unit Testing basics
-### CircleCI and Travis
-### Assignment:
-  * Add a unit test to our class project.
-  * If you are feeling ambitious, set up your own repo with continuous integration.
+### Unit Testing with Jest
+* [Introduction to Unit Testing and Continuous Integration](https://youtu.be/CB7vnoXI0pE?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
+* [Unit Testing with Jest](https://youtu.be/S3QwafQEvSs?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
+### Unit Testing with Mocha and Chai
+* [Setting up Unit Testing with Mocha and Chai](https://egghead.io/lessons/javascript-setting-up-unit-testing-with-mocha-and-chai)
+* [Unit Testing with Mocha and Chai](https://egghead.io/lessons/javascript-unit-testing-with-mocha-and-chai)
+### Continuous Integration
+* CircleCI: [Continuous Integration with GitHub](https://youtu.be/0OjEx2UzLUI?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
+* TravisCI: [Automatically running tests before commits with ghooks](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automatically-running-tests-before-commits-with-ghooks)
+### Assignment (Due Oct 2)
+* Try breaking, fixing, and/or writing a unit test. Can you run the tests locally? Via continuous integration? [Full Instructions](testing-ci-assignment.md).
 
 ## Week 5: Documentation and Accessibility, Oct 2
 ### Guest Speaker
@@ -111,9 +132,6 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Accessibility
 * [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [Working on the p5 Accessibility Project](https://medium.com/processing-foundation/working-on-the-p5-accessibility-project-58a781575400) by Mathura Govindarajan and Luis Morales-Navarro
-### Documentation
-* `CONTRIBUTING.MD`
-* Issue templates
 ### Assignment
   * Contribute documentation to our class project. Test for accessibility.
 
@@ -126,6 +144,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [Choose a License](https://choosealicense.com/)
   * [Aaron Swartz's License Haikus](http://www.aaronsw.com/weblog/000360)
   * [Part 1 of What Does Open Source Even Mean](https://medium.com/@kenjagan/part-i-what-does-open-source-even-mean-4e2829dfd557) by Jen Kagan
+  * [Facebook Contributor License Agreement](https://code.facebook.com/cla/individual)
 ### Funding
   * [What’s Your Open Source Strategy? Here Are 10 Answers…](https://blog.mozilla.org/blog/2018/05/15/whats-your-open-source-strategy-here-are-10-answers/) a research report from Mozilla and Open Tech by Patrick Finch
   * [Funding Open Source the Hard Way](https://youtu.be/HokXBjDS_UA) from Nadia Eghbal, [slides of talk](https://www.slideshare.net/NadiaEghbal/funding-open-source-the-hard-way)
