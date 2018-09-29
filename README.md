@@ -106,7 +106,14 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Guillermo Montecinos: [Rules clear for healthy relationships and the shadow of the past](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_3/assignment.md)
   * Wenhe Li: [Community needs Code of Conduct](https://medium.com/@wenhe.li98/community-needs-code-of-conduct-e5f9552a1774)
   * Vince MingPu Shao: [Inclusive and healthy environment](https://wp.nyu.edu/vinceshao/2018/09/24/oss-inclusive-healthy-working-environment/)
-
+  * Alice Sun: [Wisdom of Crowds](http://www.alicehgsun.com/wisdom-of-crowds)
+  * Jiwon Shin: [Let's Learn to Accept](https://js6450.github.io/OpenSourceStudio/weekly/3.html)
+  * Lin Zhang: [Responsibility of Setting Culture Norm](https://linzhangcs.github.io/blog/2018/09/24/powerandsettingexpectations/)
+  * Nicolás Escarpentier: [Education and building foundations for building a castle](http://itp.nicolaspe.com/2018/09/education-and-building-foundations-for-building-a-castle/)
+  * Jinzhong: [Do we need to clean the environment of Open Source Community](https://yuuno.cc/articles/do-we-need-to-clean-oss-env)
+  * emma rae norton: [Reflection: EthicalCS, Open Source as structure](https://spaghettimeatballsbecomereallyfrightening.online/oss/reflection-ethicalcs-open-source-as-structure/)
+  * Camille Weins: [READMEs and Ethics](https://medium.com/@camilleweins/readmes-and-ethics-cbae8e77ffcd)
+  * Ahmad Arshad: [Social awareness in OSS] (https://dev1.ed-projects.nyu.edu/geotools/2018/09/25/ossp-week-3-reflections/)
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
 * [dev.to](https://dev.to/)
@@ -119,9 +126,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Continuous Integration
 * CircleCI: [Continuous Integration with GitHub](https://youtu.be/0OjEx2UzLUI?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
 * TravisCI: [Automatically running tests before commits with ghooks](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automatically-running-tests-before-commits-with-ghooks)
-### Assignment:
-* Add a unit test to the Playground (instructions coming soon).
-* If you are feeling ambitious, set up your own repo with continuous integration.
+### Assignment (Due Oct 2)
+* Try breaking, fixing, and/or writing a unit test. Can you run the tests locally? Via continuous integration? [Full Instructions](testing-ci-assignment.md).
 
 ## Week 5: Documentation and Accessibility, Oct 2
 ### Guest Speaker
