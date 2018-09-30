@@ -4,6 +4,7 @@
 
 ## Link to your pull request, repository, or write-up below:
 * Jinzhong: [A Testing Function to ensure links in \*.md are accessible](https://github.com/NHibiki-NYU/UnitTestingCI/pull/1)
+* Wenhe: [Add ReLU function and test](https://github.com/WenheLI/UnitTestingCI/pull/1)
 
 # Instructions
 

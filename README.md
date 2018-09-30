@@ -81,7 +81,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Ahmad Arshad: [FLOSS Everything](https://dev1.ed-projects.nyu.edu/geotools/2018/09/18/ossp-week-2-reflections/)
     * Guillermo Montecinos: [Open source community and its role in an apolitical era](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_2/assignment.md)
     * Luna Olavarría Gallegos: [Myth of Neutrality in Tech](https://wp.nyu.edu/luna/2018/09/16/myth-of-neutrality-in-tech/)
-
+    * Camille Weins: [PRs and ‘Intellectual Property’](https://medium.com/@camilleweins/prs-and-intellectual-property-2fc455edaf61)
+    
 ### Assignment (Due Sept 25)
   * Create an open source dataset and contribute to an existing repository (like our [Corpora "sandbox"](https://github.com/Open-Source-Studio-at-ITP/corpora) or [Corpora](https://github.com/dariusk/corpora) directly!) or create a new one. [Full Instructions](data-assignment.md).
 
