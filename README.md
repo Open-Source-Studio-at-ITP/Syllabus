@@ -80,6 +80,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Alice Sun: [Software Within the Ecology](http://www.alicehgsun.com/software-within-the-ecology)
     * Ahmad Arshad: [FLOSS Everything](https://dev1.ed-projects.nyu.edu/geotools/2018/09/18/ossp-week-2-reflections/)
     * Guillermo Montecinos: [Open source community and its role in an apolitical era](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_2/assignment.md)
+    * Luna Olavarría Gallegos: [Myth of Neutrality in Tech](https://wp.nyu.edu/luna/2018/09/16/myth-of-neutrality-in-tech/)
     * Camille Weins: [PRs and ‘Intellectual Property’](https://medium.com/@camilleweins/prs-and-intellectual-property-2fc455edaf61)
     
 ### Assignment (Due Sept 25)
@@ -112,6 +113,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * emma rae norton: [Reflection: EthicalCS, Open Source as structure](https://spaghettimeatballsbecomereallyfrightening.online/oss/reflection-ethicalcs-open-source-as-structure/)
   * Camille Weins: [READMEs and Ethics](https://medium.com/@camilleweins/readmes-and-ethics-cbae8e77ffcd)
   * Ahmad Arshad: [Social awareness in OSS] (https://dev1.ed-projects.nyu.edu/geotools/2018/09/25/ossp-week-3-reflections/)
+   * Luna Olavarría Gallegos: [Code of Conduct](https://wp.nyu.edu/luna/2018/09/22/code-of-conduct-reading-response/)
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
 * [dev.to](https://dev.to/)
