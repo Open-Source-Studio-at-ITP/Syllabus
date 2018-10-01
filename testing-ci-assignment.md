@@ -31,6 +31,6 @@ Here are some resources for the above:
 
 ## Another option: your own repo or another open source project?
 
-You are welcome to set up unit testing and/or continuous integration in a new GitHub repo or contribute a test to another open source project.
+You are welcome to set up unit testing and/or continuous integration in a new GitHub repository or contribute a test to another open source project.
 
 
