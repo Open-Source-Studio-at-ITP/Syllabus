@@ -1,4 +1,4 @@
-# Open Source Data Assignment
+# Unit Testing and CI Assignment
 
 **due Tuesday, October 2**
 
