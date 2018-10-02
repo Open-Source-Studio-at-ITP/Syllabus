@@ -142,6 +142,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * [Working on the p5 Accessibility Project](https://medium.com/processing-foundation/working-on-the-p5-accessibility-project-58a781575400) by Mathura Govindarajan and Luis Morales-Navarro
 ### Assignment
   * Contribute documentation to our class project. Test for accessibility.
+  
+## No class Oct 9!
 
 ## Week 6: Licensing and Funding, Oct 16
 ### Guest Speaker
