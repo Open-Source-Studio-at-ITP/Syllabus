@@ -7,6 +7,7 @@
 * Wenhe: [Add ReLU function and test](https://github.com/WenheLI/UnitTestingCI/pull/1)
 * James: [Add timer funtion and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/8/)
 * Jiwon: [Add randInt, factorize and 3D distance check functions and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/5)
+* Guillermo: [Add fahrenheit2Celcius function and three tests: first broken and then fixed.](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/6)
 
 # Instructions
 
@@ -34,5 +35,3 @@ Here are some resources for the above:
 ## Another option: your own repo or another open source project?
 
 You are welcome to set up unit testing and/or continuous integration in a new GitHub repository or contribute a test to another open source project.
-
-
