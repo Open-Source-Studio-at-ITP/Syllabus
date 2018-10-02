@@ -8,6 +8,7 @@
 * James: [Add timer funtion and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/8/)
 * Jiwon: [Add randInt, factorize and 3D distance check functions and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/5)
 * Guillermo: [Add fahrenheit2Celcius function and three tests: first broken and then fixed.](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/6)
+* emma: [Add iThink function and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/9)
 
 # Instructions
 
