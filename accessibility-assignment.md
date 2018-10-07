@@ -7,7 +7,7 @@
 
 # Instructions
 
-## Teach Access
+## Web Content Accessibility Guidelines
 
 1. Review the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 2. Complete the [Teach Access](https://teachaccess.github.io/tutorial/#/0) tutorial.
