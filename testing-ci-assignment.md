@@ -11,6 +11,7 @@
 * emma: [Add iThink function and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/9)
 * Nico: [Add Fisher-Yates array shuffle algorithm and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/10)
 * Lin: [Add repeatAction function and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/13)
+* Alice: [Testing for myLove function (and many failures D:)](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/16)
 
 # Instructions
 
