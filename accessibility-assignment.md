@@ -1,6 +1,6 @@
 # Accessibility Assignment
 
-**due Tuesday, October 17**
+**due Tuesday, October 16**
 
 ## Link to your post below:
 * Name: [title](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/accessibility-assignment.md)
