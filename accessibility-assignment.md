@@ -16,7 +16,7 @@
 
 1. Find an open source project to audit for accessibility. This could be a project's website, github repository, or some other aspect of the project (associated tutorials, etc.) You are also welcome to use ITP course materials. Here are some suggested projects if you are feeling stuck:
     * [ml5.js website](https://ml5js.org/)
-    * [p5.js](https://p5js.org/)
+    * [p5.js website](https://p5js.org/)
     * [p5.js Web Editor](https://editor.p5js.org/)
     * [Processing website](https://processing.org/)
     * [ICM OOP programming tutorial](https://shiffman.github.io/Learning-p5.js/ch08.html)
