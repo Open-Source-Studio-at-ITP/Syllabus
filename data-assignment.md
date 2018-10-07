@@ -10,16 +10,17 @@
 
 ## Link to your pull request (or repo) below:
 
-* name -- [title of pull request](url)
 * emma rae -- [Add list of fictional colors](https://github.com/dariusk/corpora/pull/325)
 * jinzhong yu -- [Add list of country calling codes](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/3)
 * alice -- [adding and updating fictional religions](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/4)
 * Wenhe Li -- [add description && add Persona file into game](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/5)
 * Luna -- [Puerto Rican Debt](https://wp.nyu.edu/luna/2018/09/16/github-corpora-excercise/)
-* Jiwon -- [Skeleton & Point Clode Data for Kinect V2](https://github.com/js6450/kinect-data)
+* Jiwon -- [Skeleton & Point Cloud Data for Kinect V2](https://github.com/js6450/kinect-data)
 * Camille -- [add list of medical Latin combining terms](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/10)
 * Vince Shao -- [AGI Designers List](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/11)
 * Lin Zhang -- [Feelings about coding](https://github.com/linzhangcs/feelingsaboutcoding)
+* Amitabh Shrivastava -- [Added to carbon allotropes](https://github.com/dariusk/corpora/pull/328)
+* Guillermo Montecinos -- [Add FIFA World Cup history](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/7)
 
 # Instructions for Corpora Contribution
 
