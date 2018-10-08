@@ -1,19 +1,19 @@
 # Accessibility Assignment
 
-**due Tuesday, October 16**
+This assignment is **due Tuesday, October 16**
 
 ## Link to your post below:
 * Name: [title](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/accessibility-assignment.md)
 
-# Instructions
+## Instructions
 
-## Web Content Accessibility Guidelines
+### Web Content Accessibility Guidelines
 
 1. Review [Intro to Digital Accessibility](https://docs.google.com/presentation/d/1Gjn16bgjeWCnKNmCwW-0cxUpbQXR0TPfjDSTN7TFcRA/edit#slide=id.g421c16c3f6_5_365) slides.
 2. Review the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 3. Complete the [Teach Access](https://teachaccess.github.io/tutorial/#/0) tutorial.
 
-## Perform an accessibility audit of an open source project.
+### Perform an accessibility audit of an open source project.
 
 1. Find an open source project to audit for accessibility. This could be a project's website, github repository, or some other aspect of the project (associated tutorials, etc.) You are also welcome to use ITP course materials. Here are some suggested projects if you are feeling stuck:
     * [ml5.js website](https://ml5js.org/)
@@ -33,6 +33,6 @@
     * [Mac OS Voiceover](https://help.apple.com/voiceover/mac/10.14/), [Mac Accessibility Support](https://support.apple.com/accessibility/mac)
     * [JAWS free trial for Windows](https://www.freedomscientific.com/Downloads/JAWS)
 
-## Document your findings
+### Document your findings
 
 Write up the results of your audit in a blog post and link above. If you are feeling ambitious you could file an issue with the project and/or a pull request. This [reporting templates with resources]() might be helpful.
