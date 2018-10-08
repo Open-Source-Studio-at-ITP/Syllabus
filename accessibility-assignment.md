@@ -9,8 +9,9 @@
 
 ## Web Content Accessibility Guidelines
 
-1. Review the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
-2. Complete the [Teach Access](https://teachaccess.github.io/tutorial/#/0) tutorial.
+1. Review [Intro to Digital Accessibility](https://docs.google.com/presentation/d/1Gjn16bgjeWCnKNmCwW-0cxUpbQXR0TPfjDSTN7TFcRA/edit#slide=id.g421c16c3f6_5_365) slides.
+2. Review the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
+3. Complete the [Teach Access](https://teachaccess.github.io/tutorial/#/0) tutorial.
 
 ## Perform an accessibility audit of an open source project.
 
@@ -34,4 +35,4 @@
 
 ## Document your findings
 
-Write up the results of your audit in a blog post and link above. If you are feeling ambitious you could file an issue with the project and/or a pull request.
+Write up the results of your audit in a blog post and link above. If you are feeling ambitious you could file an issue with the project and/or a pull request. This [reporting templates with resources]() might be helpful.
