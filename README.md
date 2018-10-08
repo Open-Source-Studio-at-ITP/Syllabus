@@ -160,9 +160,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Funding
   * [What’s Your Open Source Strategy? Here Are 10 Answers…](https://blog.mozilla.org/blog/2018/05/15/whats-your-open-source-strategy-here-are-10-answers/) a research report from Mozilla and Open Tech by Patrick Finch
   * [Funding Open Source the Hard Way](https://youtu.be/HokXBjDS_UA) from Nadia Eghbal, [slides of talk](https://www.slideshare.net/NadiaEghbal/funding-open-source-the-hard-way)
-### Assignment
 
-## Week 7: Project Idea Workshop, Oct 23
+## Week 7: Open Source Project Proposals, Oct 23
 ### Open Source Contributor Programs
 * [Outreachy](https://www.outreachy.org/apply/)
 * [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
@@ -170,21 +169,19 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Reading
   * [Getting into Summer of Code Programs](http://exploreshaifali.github.io/2015/06/08/getting-into-summer-of-code-programs/) by Shaifali
   * [How to write a GSoC Proposal](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
-### Assignment
-* Write a project proposal
 
-## Week 8: Project Proposals, Oct 30
+## Week 8: Project Idea Workshop, Oct 30
+
+## Week 9: Project Proposals, Nov 6
 * Students propose "final projects", ideally collaborations of 2-3 students, a new open source project or contribution to existing open source project?
-
-## Week 9: Project Development Studio, Nov 6
 
 ## Week 10: Project Development Studio, Nov 13
 
 ## Week 11: Project Development Studio, Nov 20
 
-## Week 12: In Progress Presentations, Nov 27
+## Week 12: Project Development Studio, Nov 27
 
-## Week 13: "User Testing" Workshop, Dec 4
+## Week 13: Project Development Studio, Dec 4
 
 ## Week 14: Final Presentations, Dec 11
 In addition to completing a final project for the course and presenting it in class as a group, each student is required to write a written reflection.

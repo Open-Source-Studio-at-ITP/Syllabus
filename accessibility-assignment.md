@@ -3,8 +3,8 @@
 This assignment is **due Tuesday, October 16**.
 
 ## Link to your post below:
-* Name: [title](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/accessibility-assignment.md)
 * Luna: [Accessibility Assignment](https://wp.nyu.edu/luna/2018/10/08/accessibility-assignment/)
+* Camille Weins: [openFrameworks Accessibility Audit](https://medium.com/@camilleweins/openframeworks-accessibility-audit-2ac94a02d269)
 
 ## Instructions
 
@@ -36,4 +36,4 @@ This assignment is **due Tuesday, October 16**.
 
 ### Document your findings
 
-Write up the results of your audit in a blog post and link above. If you are feeling ambitious you could file an issue with the project and/or a pull request. This [reporting templates with resources]() might be helpful.
+Write up the results of your audit in a blog post and link above. If you are feeling ambitious you could file an issue with the project and/or a pull request. This [reporting templates with resources](https://docs.google.com/spreadsheets/d/1eSpvs0BH7yLBIxJ7GBO1m205EWkIYXVtWSwkSZ5MQiU/edit?usp=sharing) might be helpful.
