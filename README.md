@@ -88,7 +88,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Emma Rae Norton: [Reflection: open source, structure, politics](https://spaghettimeatballsbecomereallyfrightening.online/oss/reading-reflection-open-source-structure-politics/)
     
 ### Assignment (Due Sept 25)
-  * Create an open source dataset and contribute to an existing repository (like our [Corpora "sandbox"](https://github.com/Open-Source-Studio-at-ITP/corpora) or [Corpora](https://github.com/dariusk/corpora) directly!) or create a new one. [Full Instructions](data-assignment.md).
+  * Create an open source dataset and contribute to an existing repository (like our [Corpora "sandbox"](https://github.com/Open-Source-Studio-at-ITP/corpora) or [Corpora](https://github.com/dariusk/corpora) directly!) or create a new one. [Data Assignment Full Instructions](data-assignment.md).
 
 ## Week 3: Code of Conduct / Community, Sept 18
 ### Guest Speaker
@@ -132,17 +132,19 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * CircleCI: [Continuous Integration with GitHub](https://youtu.be/0OjEx2UzLUI?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
 * TravisCI: [Automatically running tests before commits with ghooks](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automatically-running-tests-before-commits-with-ghooks)
 ### Assignment (Due Oct 2)
-* Try breaking, fixing, and/or writing a unit test. Can you run the tests locally? Via continuous integration? [Full Instructions](testing-ci-assignment.md).
+* Try breaking, fixing, and/or writing a unit test. Can you run the tests locally? Via continuous integration? [Unit Testing Assignment Full Instructions](testing-ci-assignment.md).
 
 ## Week 5: Documentation and Accessibility, Oct 2
 ### Guest Speaker
 * [Claire Kearney-Volpe](http://www.takinglifeseriously.com/about.html)
-### Accessibility
+* [Intro to Digital Accessibility](https://docs.google.com/presentation/d/1Gjn16bgjeWCnKNmCwW-0cxUpbQXR0TPfjDSTN7TFcRA/edit#slide=id.g421c16c3f6_5_365) slides.
+* [Teach Access](https://teachaccess.github.io/tutorial/#/0)
+### Accessibility Reading
 * [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [Working on the p5 Accessibility Project](https://medium.com/processing-foundation/working-on-the-p5-accessibility-project-58a781575400) by Mathura Govindarajan and Luis Morales-Navarro
 ### Assignment
-  * Contribute documentation to our class project. Test for accessibility.
-  
+* Perform an accessibility audit of a website / open source project. [Accessibility Assignment Full Instructions](accessibility-assignment.md). Due Oct 16.
+
 ## No class Oct 9!
 
 ## Week 6: Licensing and Funding, Oct 16
