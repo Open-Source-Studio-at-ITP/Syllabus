@@ -4,6 +4,7 @@ This assignment is **due Tuesday, October 16**.
 
 ## Link to your post below:
 * Name: [title](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/accessibility-assignment.md)
+* Camille Weins: [openFrameworks Accessibility Audit](https://medium.com/@camilleweins/openframeworks-accessibility-audit-2ac94a02d269)
 
 ## Instructions
 
