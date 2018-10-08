@@ -137,7 +137,9 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ## Week 5: Documentation and Accessibility, Oct 2
 ### Guest Speaker
 * [Claire Kearney-Volpe](http://www.takinglifeseriously.com/about.html)
-### Accessibility
+* [Intro to Digital Accessibility](https://docs.google.com/presentation/d/1Gjn16bgjeWCnKNmCwW-0cxUpbQXR0TPfjDSTN7TFcRA/edit#slide=id.g421c16c3f6_5_365) slides.
+* [Teach Access](https://teachaccess.github.io/tutorial/#/0)
+### Accessibility Reading
 * [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [Working on the p5 Accessibility Project](https://medium.com/processing-foundation/working-on-the-p5-accessibility-project-58a781575400) by Mathura Govindarajan and Luis Morales-Navarro
 ### Assignment
