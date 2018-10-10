@@ -232,3 +232,6 @@ Your health and safety are a priority at NYU. If you experience any health or me
 ## Statement on use of Electronic Devices
 
 Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations.  Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
+
+
+small change to try to run tests
