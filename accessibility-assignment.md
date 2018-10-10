@@ -14,7 +14,7 @@ This assignment is **due Tuesday, October 16**.
 ### Web Content Accessibility Guidelines
 
 1. Review [Intro to Digital Accessibility](https://docs.google.com/presentation/d/1Gjn16bgjeWCnKNmCwW-0cxUpbQXR0TPfjDSTN7TFcRA/edit#slide=id.g421c16c3f6_5_365) slides.
-2. Review the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
+2. Review the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 3. Complete the [Teach Access](https://teachaccess.github.io/tutorial/#/0) tutorial.
 
 ### Perform an accessibility audit of an open source project.
