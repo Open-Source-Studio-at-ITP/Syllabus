@@ -3,6 +3,9 @@
 This assignment is **due Tuesday, October 16**.
 
 ## Link to your post below:
+* NHibiki:
+  - [Blog: Accessibility in Web](https://yuuno.cc/articles/accessibility-in-web)
+  - [Try: Github Pull Request](https://github.com/shiffman/natureofcode.com/pull/30)
 * Luna: [Accessibility Assignment](https://wp.nyu.edu/luna/2018/10/08/accessibility-assignment/)
 * Camille Weins: [openFrameworks Accessibility Audit](https://medium.com/@camilleweins/openframeworks-accessibility-audit-2ac94a02d269)
 
