@@ -161,16 +161,18 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [What’s Your Open Source Strategy? Here Are 10 Answers…](https://blog.mozilla.org/blog/2018/05/15/whats-your-open-source-strategy-here-are-10-answers/) a research report from Mozilla and Open Tech by Patrick Finch
   * [Funding Open Source the Hard Way](https://youtu.be/HokXBjDS_UA) from Nadia Eghbal, [slides of talk](https://www.slideshare.net/NadiaEghbal/funding-open-source-the-hard-way)
 
-## Week 7: Open Source Project Proposals, Oct 23
-### Open Source Contributor Programs
-* [Outreachy](https://www.outreachy.org/apply/)
-* [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
-* [Google Summer of Code](https://summerofcode.withgoogle.com/)
+## Week 7: Project Idea Workshop, Oct 23
 ### Reading
   * [Getting into Summer of Code Programs](http://exploreshaifali.github.io/2015/06/08/getting-into-summer-of-code-programs/) by Shaifali
   * [How to write a GSoC Proposal](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
 
-## Week 8: Project Idea Workshop, Oct 30
+## Week 8: Project Proposals, Oct 30
+### Guest Speaker
+* [Jen Kagan](https://www.jennnkagan.com/)
+### Open Source Contributor Programs
+* [Outreachy](https://www.outreachy.org/apply/)
+* [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
+* [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
 ## Week 9: Project Proposals, Nov 6
 * Students propose "final projects", ideally collaborations of 2-3 students, a new open source project or contribution to existing open source project?
