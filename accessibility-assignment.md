@@ -3,6 +3,8 @@
 This assignment is **due Tuesday, October 16**.
 
 ## Link to your post below:
+* Wenhe:
+  - [Accessibility on Web Design](https://blog.steins.live/accessibility-audit-on/)
 * NHibiki:
   - [Blog: Accessibility in Web](https://yuuno.cc/articles/accessibility-in-web)
   - [Try: Github Pull Request](https://github.com/shiffman/natureofcode.com/pull/30)
