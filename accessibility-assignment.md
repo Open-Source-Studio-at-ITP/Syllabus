@@ -12,6 +12,7 @@ This assignment is **due Tuesday, October 16**.
 * Camille Weins: [openFrameworks Accessibility Audit](https://medium.com/@camilleweins/openframeworks-accessibility-audit-2ac94a02d269)
 * Jiwon Shin: [Nature of Code Accessibility Audit](https://js6450.github.io/OpenSourceStudio/weekly/5.html)
 * Guillermo Montecinos: [ml5.js Web Accesibility Audit](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_6/accessibility_assignment.md)
+* Emma Rae Norton: [Accessibility Audit: NYU Website](https://spaghettimeatballsbecomereallyfrightening.online/oss/accessibility-audit-nyu-website/)
 
 ## Instructions
 
