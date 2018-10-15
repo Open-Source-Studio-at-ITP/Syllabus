@@ -10,6 +10,7 @@ This assignment is **due Tuesday, October 16**.
   - [Try: Github Pull Request](https://github.com/shiffman/natureofcode.com/pull/30)
 * Luna: [Accessibility Assignment](https://wp.nyu.edu/luna/2018/10/08/accessibility-assignment/)
 * Camille Weins: [openFrameworks Accessibility Audit](https://medium.com/@camilleweins/openframeworks-accessibility-audit-2ac94a02d269)
+* Jiwon Shin: [Nature of Code Accessibility Audit](https://js6450.github.io/OpenSourceStudio/weekly/5.html)
 
 ## Instructions
 
