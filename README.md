@@ -164,7 +164,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * [Getting into Summer of Code Programs](http://exploreshaifali.github.io/2015/06/08/getting-into-summer-of-code-programs/) by Shaifali
   * [How to write a GSoC Proposal](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
 ### Assignment
-  * TBD
+  * Review the [Final Projects repo](https://github.com/Open-Source-Studio-at-ITP/Final-Projects) and complete the [assignment for Step 1](https://github.com/Open-Source-Studio-at-ITP/Final-Projects#assignment---due-oct-23)
 
 ## Week 7: Project Idea Workshop, Oct 23
 ### Guest Speaker
@@ -179,7 +179,6 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * [Jen Kagan](https://www.jennnkagan.com/)
 
 ## Week 9: Project Proposals, Nov 6
-* Students propose "final projects", ideally collaborations of 2-3 students, a contribution to an open source project (or a new open source project.)
 
 ## Week 10: Project Development Studio, Nov 13
 
