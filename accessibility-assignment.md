@@ -14,6 +14,8 @@ This assignment is **due Tuesday, October 16**.
 * Guillermo Montecinos: [ml5.js Web Accesibility Audit](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_6/accessibility_assignment.md)
 * Emma Rae Norton: [Accessibility Audit: NYU Website](https://spaghettimeatballsbecomereallyfrightening.online/oss/accessibility-audit-nyu-website/)
 * Amitabh Shrivastava: [Accessibility in Web Design- OpenROV Forum](https://tinkrmind.me/2018/10/16/accessibility-in-web-design-openrov-forum/)
+* Nico Escarpentier: [Accessibility for 3d web graphics](http://itp.nicolaspe.com/2018/10/accessibility-for-3d-web-graphics/)
+
 
 ## Instructions
 
