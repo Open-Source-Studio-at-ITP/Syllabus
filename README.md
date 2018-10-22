@@ -50,7 +50,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * James Hosken: [The Three Tenets of Open Source](https://generallyplayful.com/itp/oss/the-three-tenets-of-open-source/)
     * Ahmad Arshad: [My open source experience](https://dev1.ed-projects.nyu.edu/geotools/2018/09/11/ossp-week-1-reflections/)
     * Lin Zhang: [Contempt in Developer Culture](https://linzhangcs.github.io/blog/2018/09/17/importanceofculture/)
-    
+    * Guillermo Montecinos: [First thoughts about Open Source](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_1/assignment.md)
+
 ### Outside Collaborator Posts
 * Alfie Chen: [Stepping Into an Open World](https://alfieyfc.github.io/2018/09/25/stepping_into_an_open_world/)
 
@@ -86,7 +87,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Luna Olavarría Gallegos: [Myth of Neutrality in Tech](https://wp.nyu.edu/luna/2018/09/16/myth-of-neutrality-in-tech/)
     * Camille Weins: [PRs and ‘Intellectual Property’](https://medium.com/@camilleweins/prs-and-intellectual-property-2fc455edaf61)
     * Emma Rae Norton: [Reflection: open source, structure, politics](https://spaghettimeatballsbecomereallyfrightening.online/oss/reading-reflection-open-source-structure-politics/)
-    
+
 ### Assignment (Due Sept 25)
   * Create an open source dataset and contribute to an existing repository (like our [Corpora "sandbox"](https://github.com/Open-Source-Studio-at-ITP/corpora) or [Corpora](https://github.com/dariusk/corpora) directly!) or create a new one. [Data Assignment Full Instructions](data-assignment.md).
 
@@ -118,7 +119,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Camille Weins: [READMEs and Ethics](https://medium.com/@camilleweins/readmes-and-ethics-cbae8e77ffcd)
   * Ahmad Arshad: [Social awareness in OSS](https://dev1.ed-projects.nyu.edu/geotools/2018/09/25/ossp-week-3-reflections/)
   * Luna Olavarría Gallegos: [Code of Conduct](https://wp.nyu.edu/luna/2018/09/22/code-of-conduct-reading-response/)
-   
+
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
 * [dev.to](https://dev.to/)
