@@ -174,6 +174,9 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * [Outreachy](https://www.outreachy.org/apply/)
 * [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
+### Assignment
+* Continue discussion on GitHub issues [for Step 1](https://github.com/Open-Source-Studio-at-ITP/Final-Projects#assignment---due-oct-23). Review the [Project Proposal template](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/blob/source/proposal-template.md) and submit any pull requests with suggestions or file issues with questions, concerns, and feedback. Note your proposal is due Nov 6th for presentation in class (more on that to come.)
+
 
 ## Week 8: Project Idea Workshop, Oct 30
 ### Guest Speaker
