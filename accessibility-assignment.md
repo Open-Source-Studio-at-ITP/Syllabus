@@ -16,6 +16,7 @@ This assignment is **due Tuesday, October 16**.
 * Amitabh Shrivastava: [Accessibility in Web Design- OpenROV Forum](https://tinkrmind.me/2018/10/16/accessibility-in-web-design-openrov-forum/)
 * Nico Escarpentier: [Accessibility for 3d web graphics](http://itp.nicolaspe.com/2018/10/accessibility-for-3d-web-graphics/)
 * James Hosken: [Blender Accessibility Audit](https://generallyplayful.com/itp/oss/blender-website-accessibility-audit/)
+* Hadar Ben-Tzur:  [Lighthouse](http://itp.hadarbentzur.com/accessibility)
 
 ## Instructions
 
