@@ -13,6 +13,7 @@
 * Lin: [Add repeatAction function and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/13)
 * Alice: [Testing for myLove function (and many failures D:)](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/16)
 * Vince: [Add power function](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/7)
+* Luna: [My test](https://github.com/lunaog/testtesttest/pull/1) 
 
 # Instructions
 
